@@ -1,0 +1,43 @@
+{
+    "allergies": [
+
+    ],
+    "careplans": [
+
+    ],
+    "conditions": [
+        "Asthma"
+    ],
+    "devices": [
+
+    ],
+    "encounters": [
+        "General examination of patient (procedure)",
+        "Encounter for check up (procedure)",
+        "Encounter for problem (procedure)",
+        "Follow-up visit (procedure)",
+        "Encounter for symptom",
+        "Hospital admission",
+        "Hospital (asthma)"
+    ],
+    "imagings": [
+
+    ],
+    "immunizations": [
+        "DTaP",
+        "HPV quadrivalent",
+        "Hep B adolescent or pediatric"
+    ],
+    "medications": [
+        "Ibuprofen 200 MG Oral Tablet",
+        "Minigeste 28 day pack"
+    ],
+    "procedures": [
+        "Physical examination"
+    ],
+    "observations": [
+        ["Body Height", "178", "cm"],
+        ["Body Weight", "65", "kg"],
+        ["Tobacco smoking status", "Former smoker", ""]
+    ]
+}

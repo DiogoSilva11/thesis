@@ -1,0 +1,47 @@
+{
+    "allergies": [
+
+    ],
+    "careplans": [
+
+    ],
+    "conditions": [
+        "Allergic rhinitis",
+        "Normal pregnancy"
+    ],
+    "devices": [
+        "Spine prosthesis"
+    ],
+    "encounters": [
+        "General examination of patient (procedure)",
+        "Encounter for check up (procedure)",
+        "Encounter for problem (procedure)",
+        "Follow-up visit (procedure)",
+        "Encounter for symptom",
+        "Hospital admission",
+        "Prenatal visit",
+        "Routine antenatal care",
+        "Physical examination following birth"
+    ],
+    "imagings": [
+        "Fetal anatomy study"
+    ],
+    "immunizations": [
+        "DTaP",
+        "HPV quadrivalent",
+        "Hep B adolescent or pediatric"
+    ],
+    "medications": [
+        "Ibuprofen 200 MG Oral Tablet",
+        "Minigeste 28 day pack"
+    ],
+    "procedures": [
+        "Physical examination",
+        "Childbirth"
+    ],
+    "observations": [
+        ["Body Height", "168", "cm"],
+        ["Body Weight", "60", "kg"],
+        ["Tobacco smoking status", "Current smoker", ""]
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "allergies": [
+        "Allergy to house pets (cats)"
+    ],
+    "careplans": [
+
+    ],
+    "conditions": [
+        "Anemia"
+    ],
+    "devices": [
+
+    ],
+    "encounters": [
+        "General examination of patient (procedure)",
+        "Encounter for check up (procedure)",
+        "Encounter for problem (procedure)",
+        "Follow-up visit (procedure)",
+        "Encounter for symptom",
+        "Hospital admission"
+    ],
+    "imagings": [
+
+    ],
+    "immunizations": [
+        "DTaP",
+        "HPV quadrivalent",
+        "Hep B adolescent or pediatric"
+    ],
+    "medications": [
+        "Ibuprofen 200 MG Oral Tablet",
+        "Minigeste 28 day pack"
+    ],
+    "procedures": [
+        "Physical examination",
+        "Hemoglobin / Hematocrit / Platelet count"
+    ],
+    "observations": [
+        ["Body Height", "165", "cm"],
+        ["Body Weight", "64", "kg"],
+        ["Tobacco smoking status", "Current smoker", ""]
+    ]
+}

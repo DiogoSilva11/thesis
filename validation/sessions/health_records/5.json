@@ -1,0 +1,44 @@
+{
+    "allergies": [
+        "Allergy to dust mite"
+    ],
+    "careplans": [
+
+    ],
+    "conditions": [
+        "Coronary artery spasm",
+        "Cholesterol",
+        "High blood pressure"
+    ],
+    "devices": [
+
+    ],
+    "encounters": [
+        "General examination of patient (procedure)",
+        "Encounter for check up (procedure)",
+        "Encounter for problem (procedure)",
+        "Follow-up visit (procedure)",
+        "Encounter for symptom",
+        "Hospital admission"
+    ],
+    "imagings": [
+        "Coronary ecodoppler"
+    ],
+    "immunizations": [
+        "DTaP",
+        "HPV quadrivalent",
+        "Hep B adolescent or pediatric"
+    ],
+    "medications": [
+        "Ibuprofen 200 MG Oral Tablet"
+    ],
+    "procedures": [
+        "Physical examination",
+        "Cardiac catheterization"
+    ],
+    "observations": [
+        ["Body Height", "188", "cm"],
+        ["Body Weight", "96", "kg"],
+        ["Tobacco smoking status", "Former smoker", ""]
+    ]
+}

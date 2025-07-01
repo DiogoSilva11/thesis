@@ -1,0 +1,53 @@
+{
+    "allergies": [
+        "Allergy to dust mite",
+        "Allergy to pollen"
+    ],
+    "careplans": [
+
+    ],
+    "conditions": [
+        "Hypertension",
+        "COVID-19",
+        "Normal pregnancy",
+        "Arm fracture",
+        "Urinary tract infection (recurrent)"
+    ],
+    "devices": [
+
+    ],
+    "encounters": [
+        "General examination of patient (procedure)",
+        "Encounter for check up (procedure)",
+        "Encounter for problem (procedure)",
+        "Follow-up visit (procedure)",
+        "Encounter for symptom",
+        "Hospital admission",
+        "Prenatal visit",
+        "Routine antenatal care",
+        "Physical examination following birth",
+        "Urine culture"
+    ],
+    "imagings": [
+        "Fetal anatomy study",
+        "Mammography"
+    ],
+    "immunizations": [
+        "DTaP",
+        "HPV quadrivalent",
+        "Hep B adolescent or pediatric"
+    ],
+    "medications": [
+        "Ibuprofen 200 MG Oral Tablet",
+        "Minigeste 28 day pack"
+    ],
+    "procedures": [
+        "Physical examination",
+        "Childbirth"
+    ],
+    "observations": [
+        ["Body Height", "158", "cm"],
+        ["Body Weight", "70", "kg"],
+        ["Tobacco smoking status", "Never smoker", ""]
+    ]
+}

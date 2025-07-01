@@ -1,0 +1,460 @@
+{
+    "id": "1",
+    "basic_info": [
+        "age: 25-39",
+        "gender: Female",
+        "marital: Married",
+        "location: Lisboa",
+        "occupation: Finance manager"
+    ],
+    "geo_indicators": [
+        "diabetes mortality: very low",
+        "poverty-sensitive mortality: very low",
+        "mortality sensitive to tobacco consumption: very low",
+        "diabetes: very low",
+        "distance to primary health care: very low",
+        "distance to public hospitals: very low",
+        "family medicine consultations: very low",
+        "nurses in primary health care: very low",
+        "smokers aged 15 and over: very low",
+        "illiteracy rate: very low",
+        "population with compulsory schooling: very low",
+        "population with higher education: very high",
+        "abstention in local elections: very low",
+        "youth unemployment rate: very low",
+        "elderly population living alone: very high",
+        "monthly household income: very high",
+        "distance to green spaces: very low",
+        "population using public transport daily: very high",
+        "harmful noise levels: very high",
+        "unsanitary housing: very low"
+    ],
+    "health_records": [
+        "Hospital admission",
+        "Tobacco smoking status: Current smoker ",
+        "Encounter for check up (procedure)",
+        "Follow-up visit (procedure)",
+        "Physical examination",
+        "DTaP",
+        "Minigeste 28 day pack",
+        "Routine antenatal care",
+        "General examination of patient (procedure)",
+        "HPV quadrivalent",
+        "Prenatal visit",
+        "Ibuprofen 200 MG Oral Tablet",
+        "Childbirth",
+        "Encounter for problem (procedure)",
+        "Fetal anatomy study",
+        "Body Height: 168 cm",
+        "Body Weight: 60 kg",
+        "Normal pregnancy",
+        "Physical examination following birth",
+        "Average Physical Activity: 4500 steps/day",
+        "Spine prosthesis",
+        "Hep B adolescent or pediatric",
+        "Encounter for symptom",
+        "Allergic rhinitis"
+    ],
+    "posts": [],
+    "record": [
+        {
+            "questionId": 1,
+            "factor": "personal_age",
+            "question": "How old are you?",
+            "options": [
+                "15-24",
+                "25-39",
+                "40-59",
+                "60 and above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 2,
+            "factor": "personal_gender",
+            "question": "What gender are you?",
+            "options": [
+                "Male",
+                "Female",
+                "Other"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 3,
+            "factor": "personal_marital",
+            "question": "What is your current marital status?",
+            "options": [
+                "Single",
+                "Married",
+                "Divorced",
+                "Widowed",
+                "Other"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 4,
+            "factor": "personal_location",
+            "question": "Which municipality do you currently live in?",
+            "options": [
+                "Alfândega da Fé",
+                "Amares",
+                "Braga",
+                "Bragança",
+                "Gondomar",
+                "Maia",
+                "Matosinhos",
+                "Monção",
+                "Paredes",
+                "Penafiel",
+                "Porto",
+                "Póvoa de Lanhoso",
+                "Santo Tirso",
+                "Valença",
+                "Valongo",
+                "Viana do Castelo",
+                "Vila Nova de Famalicão",
+                "Vila Pouca de Aguiar",
+                "Vila Real",
+                "Alenquer",
+                "Coimbra",
+                "Figueira da Foz",
+                "Guarda",
+                "Lourinhã",
+                "Lousã",
+                "Miranda do Corvo",
+                "Pombal",
+                "Soure",
+                "Tábua",
+                "Torres Vedras",
+                "Alcochete",
+                "Almada",
+                "Amadora",
+                "Barreiro",
+                "Lisboa",
+                "Loures",
+                "Montijo",
+                "Odivelas",
+                "Oeiras",
+                "Palmela",
+                "Seixal",
+                "Sesimbra",
+                "Setúbal",
+                "Vila Franca de Xira",
+                "Almodôvar",
+                "Alvito",
+                "Avis",
+                "Azambuja",
+                "Barrancos",
+                "Beja",
+                "Chamusca",
+                "Cuba",
+                "Golegã",
+                "Grândola",
+                "Odemira",
+                "Serpa",
+                "Viana do Alentejo",
+                "Vidigueira",
+                "Castro Marim",
+                "Lagoa",
+                "Loulé",
+                "Monchique",
+                "Portimão",
+                "Tavira",
+                "Calheta (Açores)",
+                "Lagoa (Açores)",
+                "Ponta Delgada (Açores)",
+                "Ribeira Grande (Açores)",
+                "São Roque do Pico (Açores)",
+                "Porto Santo (Madeira)"
+            ],
+            "answer": 34
+        },
+        {
+            "questionId": 5,
+            "factor": "personal_occupation",
+            "question": "What is your current occupation?",
+            "options": [
+                "Student",
+                "Retired",
+                "Military general",
+                "Combat engineer",
+                "Army medic",
+                "Military police officer",
+                "Special forces operative",
+                "Radar operator",
+                "Naval officer",
+                "Air force pilot",
+                "Chief executive officer",
+                "Finance manager",
+                "Sales manager",
+                "Human resources manager",
+                "Restaurant manager",
+                "Construction manager",
+                "Medical doctor",
+                "Civil engineer",
+                "Lawyer",
+                "Software developer",
+                "Nurse",
+                "Teacher",
+                "Medical laboratory technician",
+                "Computer network technician",
+                "Broadcasting technician",
+                "Engineering technician",
+                "Pharmacy technician",
+                "Social work associate professional",
+                "General office clerk",
+                "Receptionist",
+                "Accounting clerk",
+                "Data entry clerk",
+                "Mail carrier",
+                "Secretary (general)",
+                "Office worker",
+                "Call center associate",
+                "Retail salesperson",
+                "Waiter",
+                "Hairdresser",
+                "Security guard",
+                "Travel attendant",
+                "Hotel front desk clerk",
+                "Retail worker",
+                "Crop farm worker",
+                "Livestock worker",
+                "Farmer",
+                "Forestry worker",
+                "Fishery worker",
+                "Beekeeper",
+                "Agricultural technician",
+                "Electrician",
+                "Plumber",
+                "Welder",
+                "Carpenter",
+                "Tailor",
+                "Motor vehicle mechanic",
+                "Tradesperson",
+                "Industrial machinery operator",
+                "Forklift driver",
+                "Textile machine operator",
+                "Assembler (electronics)",
+                "Crane operator",
+                "Packaging machine operator"
+            ],
+            "answer": 11
+        },
+        {
+            "factor": "lifestyle_smoking",
+            "question": "How many cigarettes (or equivalent) do you smoke per day?",
+            "options": [
+                "Less than 5",
+                "5-10",
+                "11-20",
+                "More than 20",
+                "I do not smoke"
+            ],
+            "prediction": 0,
+            "confidence": 0.999,
+            "explanation": "The user is a current smoker but lives in a city with a very low rate of smokers and low tobacco-related mortality. Her health records show regular check-ups and no major tobacco-related illnesses. As a finance manager with high household income and health awareness (prenatal visits, vaccinations), it is likely she smokes less than 5 cigarettes per day.",
+            "answer": 0
+        },
+        {
+            "factor": "health_bones",
+            "question": "Have you been diagnosed with osteoporosis, arthritis or chronic joint pain?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "prediction": 0,
+            "confidence": 0.777,
+            "explanation": "The presence of a spine prosthesis in the user's health records suggests a history of significant spinal or joint issues, which are often related to conditions like osteoporosis, arthritis, or chronic joint pain. While the user is relatively young and otherwise healthy, the need for a spine prosthesis at this age is uncommon unless there is an underlying chronic musculoskeletal condition.",
+            "answer": 1
+        },
+        {
+            "questionId": 1,
+            "factor": "lifestyle_job_hazards",
+            "question": "Are you exposed to chemicals or dangerous scenarios in your work environment?",
+            "options": [
+                "Industrial chemicals",
+                "Pesticides",
+                "Cleaning agents",
+                "Heights",
+                "Offshore",
+                "Construction",
+                "Army",
+                "Yes, not mentioned above",
+                "No"
+            ],
+            "answer": 8
+        },
+        {
+            "questionId": 2,
+            "factor": "lifestyle_diet",
+            "question": "How would you describe your typical diet?",
+            "options": [
+                "Very healthy (balanced, mostly whole foods)",
+                "Moderately healthy (occasional fast food, moderate processed foods)",
+                "Unhealthy (frequent fast food, high processed food intake)"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 3,
+            "factor": "lifestyle_exercise",
+            "question": "How often do you exercise in a week?",
+            "options": [
+                "Less than once",
+                "1-2 times",
+                "3-4 times",
+                "5 times or more"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 4,
+            "factor": "lifestyle_alcohol",
+            "question": "How much alcohol do you consume per week?",
+            "options": [
+                "More than 10 drinks",
+                "6-10 drinks",
+                "1-5 drinks",
+                "Occasionally, but less than once a week",
+                "I do not drink"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 5,
+            "factor": "lifestyle_drugs",
+            "question": "Do you have any history of drug abuse or addiction?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 6,
+            "factor": "lifestyle_sleep",
+            "question": "How many hours of sleep do you typically get per night?",
+            "options": [
+                "Less than 5",
+                "5-7",
+                "7-8",
+                "More than 8"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 7,
+            "factor": "lifestyle_stress",
+            "question": "Do you experience high stress due to work, personal life, or other factors?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 8,
+            "factor": "family_cancer",
+            "question": "Has any biological family member been diagnosed with cancer?",
+            "options": [
+                "Lung",
+                "Breast",
+                "Prostate",
+                "Colon",
+                "Other",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 9,
+            "factor": "family_heart",
+            "question": "Has any biological family member been diagnosed with heart disease (e.g., heart attack, coronary artery disease)?",
+            "options": [
+                "Yes, before age 50",
+                "Yes, after age 50",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 10,
+            "factor": "family_stroke",
+            "question": "Has any biological family member had a stroke?",
+            "options": [
+                "Yes, before age 50",
+                "Yes, after age 50",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 11,
+            "factor": "family_diabetes",
+            "question": "Has any biological family member been diagnosed with diabetes?",
+            "options": [
+                "Yes, type 1",
+                "Yes, type 2",
+                "No"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 12,
+            "factor": "lifestyle_unsafe_sex",
+            "question": "Have you engaged in sexual activities without taking precautions to prevent sexually transmitted infections (STIs)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 13,
+            "factor": "lifestyle_socioeconomic_status",
+            "question": "Are you currently facing financial challenges that impact your access to health resources or overall well-being?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 14,
+            "factor": "lifestyle_air_pollution",
+            "question": "Do you live in an area with good air quality, free from pollution or excessive environmental hazards?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 15,
+            "factor": "lifestyle_loneliness",
+            "question": "Do you regularly feel socially isolated to a degree that affects your well-being?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        }
+    ],
+    "risk": 34,
+    "discrepancies": [
+        {
+            "factor": "health_bones",
+            "question": "Have you been diagnosed with osteoporosis, arthritis or chronic joint pain?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "prediction": 0,
+            "confidence": 0.777,
+            "explanation": "The presence of a spine prosthesis in the user's health records suggests a history of significant spinal or joint issues, which are often related to conditions like osteoporosis, arthritis, or chronic joint pain. While the user is relatively young and otherwise healthy, the need for a spine prosthesis at this age is uncommon unless there is an underlying chronic musculoskeletal condition.",
+            "answer": 1
+        }
+    ]
+}

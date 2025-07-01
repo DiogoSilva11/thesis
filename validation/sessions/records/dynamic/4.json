@@ -1,0 +1,425 @@
+{
+    "id": "1",
+    "basic_info": [
+        "age: 25-39",
+        "gender: Male",
+        "marital: Single",
+        "location: Porto",
+        "occupation: Finance manager"
+    ],
+    "geo_indicators": [
+        "diabetes mortality: very low",
+        "mortality from suicide and self-inflicted injuries: very low",
+        "mortality sensitive to tobacco consumption: very low",
+        "hospitalizations for mental illness: very high",
+        "obesity in population aged 18 and over: very low",
+        "distance to primary health care: very low",
+        "distance to public hospitals: very low",
+        "nurses in primary health care: very low",
+        "users without a family doctor: very low",
+        "population aged 15 and over who do not exercise: very low",
+        "illiteracy rate: very low",
+        "population with compulsory schooling: very low",
+        "population with higher education: very high",
+        "abstention in local elections: very low",
+        "elderly population living alone: very high",
+        "monthly household income: very high",
+        "distance to green spaces: very low",
+        "violence against children: very low"
+    ],
+    "health_records": [
+        "Tobacco smoking status: Never smoker ",
+        "Hospital admission",
+        "Body Height: 181 cm",
+        "Encounter for problem (procedure)",
+        "Physical examination",
+        "Body Weight: 90 kg",
+        "Encounter for check up (procedure)",
+        "DTaP",
+        "General examination of patient (procedure)",
+        "Follow-up visit (procedure)",
+        "Hep B adolescent or pediatric",
+        "Encounter for symptom",
+        "Average Physical Activity: 6000 steps/day",
+        "Urine culture",
+        "HPV quadrivalent",
+        "Ibuprofen 200 MG Oral Tablet"
+    ],
+    "posts": [],
+    "record": [
+        {
+            "questionId": 1,
+            "factor": "personal_age",
+            "question": "How old are you?",
+            "options": [
+                "15-24",
+                "25-39",
+                "40-59",
+                "60 and above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 2,
+            "factor": "personal_gender",
+            "question": "What gender are you?",
+            "options": [
+                "Male",
+                "Female",
+                "Other"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 3,
+            "factor": "personal_marital",
+            "question": "What is your current marital status?",
+            "options": [
+                "Single",
+                "Married",
+                "Divorced",
+                "Widowed",
+                "Other"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 4,
+            "factor": "personal_location",
+            "question": "Which municipality do you currently live in?",
+            "options": [
+                "Alfândega da Fé",
+                "Amares",
+                "Braga",
+                "Bragança",
+                "Gondomar",
+                "Maia",
+                "Matosinhos",
+                "Monção",
+                "Paredes",
+                "Penafiel",
+                "Porto",
+                "Póvoa de Lanhoso",
+                "Santo Tirso",
+                "Valença",
+                "Valongo",
+                "Viana do Castelo",
+                "Vila Nova de Famalicão",
+                "Vila Pouca de Aguiar",
+                "Vila Real",
+                "Alenquer",
+                "Coimbra",
+                "Figueira da Foz",
+                "Guarda",
+                "Lourinhã",
+                "Lousã",
+                "Miranda do Corvo",
+                "Pombal",
+                "Soure",
+                "Tábua",
+                "Torres Vedras",
+                "Alcochete",
+                "Almada",
+                "Amadora",
+                "Barreiro",
+                "Lisboa",
+                "Loures",
+                "Montijo",
+                "Odivelas",
+                "Oeiras",
+                "Palmela",
+                "Seixal",
+                "Sesimbra",
+                "Setúbal",
+                "Vila Franca de Xira",
+                "Almodôvar",
+                "Alvito",
+                "Avis",
+                "Azambuja",
+                "Barrancos",
+                "Beja",
+                "Chamusca",
+                "Cuba",
+                "Golegã",
+                "Grândola",
+                "Odemira",
+                "Serpa",
+                "Viana do Alentejo",
+                "Vidigueira",
+                "Castro Marim",
+                "Lagoa",
+                "Loulé",
+                "Monchique",
+                "Portimão",
+                "Tavira",
+                "Calheta (Açores)",
+                "Lagoa (Açores)",
+                "Ponta Delgada (Açores)",
+                "Ribeira Grande (Açores)",
+                "São Roque do Pico (Açores)",
+                "Porto Santo (Madeira)"
+            ],
+            "answer": 10
+        },
+        {
+            "questionId": 5,
+            "factor": "personal_occupation",
+            "question": "What is your current occupation?",
+            "options": [
+                "Student",
+                "Retired",
+                "Military general",
+                "Combat engineer",
+                "Army medic",
+                "Military police officer",
+                "Special forces operative",
+                "Radar operator",
+                "Naval officer",
+                "Air force pilot",
+                "Chief executive officer",
+                "Finance manager",
+                "Sales manager",
+                "Human resources manager",
+                "Restaurant manager",
+                "Construction manager",
+                "Medical doctor",
+                "Civil engineer",
+                "Lawyer",
+                "Software developer",
+                "Nurse",
+                "Teacher",
+                "Medical laboratory technician",
+                "Computer network technician",
+                "Broadcasting technician",
+                "Engineering technician",
+                "Pharmacy technician",
+                "Social work associate professional",
+                "General office clerk",
+                "Receptionist",
+                "Accounting clerk",
+                "Data entry clerk",
+                "Mail carrier",
+                "Secretary (general)",
+                "Office worker",
+                "Call center associate",
+                "Retail salesperson",
+                "Waiter",
+                "Hairdresser",
+                "Security guard",
+                "Travel attendant",
+                "Hotel front desk clerk",
+                "Retail worker",
+                "Crop farm worker",
+                "Livestock worker",
+                "Farmer",
+                "Forestry worker",
+                "Fishery worker",
+                "Beekeeper",
+                "Agricultural technician",
+                "Electrician",
+                "Plumber",
+                "Welder",
+                "Carpenter",
+                "Tailor",
+                "Motor vehicle mechanic",
+                "Tradesperson",
+                "Industrial machinery operator",
+                "Forklift driver",
+                "Textile machine operator",
+                "Assembler (electronics)",
+                "Crane operator",
+                "Packaging machine operator"
+            ],
+            "answer": 11
+        },
+        {
+            "factor": "health_injury",
+            "question": "Have you ever experienced a serious injury?",
+            "options": [
+                "Brain",
+                "Spinal",
+                "Severe burn",
+                "Internal organs",
+                "Complicated fractures",
+                "Other",
+                "No"
+            ],
+            "prediction": 6,
+            "confidence": 1.0,
+            "explanation": "There is no evidence in the health records of any serious injuries such as brain, spinal, severe burns, internal organ damage, or complicated fractures. The user has had hospital admissions and encounters for symptoms, but these are not specified as related to serious injuries. The user's physical activity level and general health indicators also suggest no recent or ongoing serious injury.",
+            "answer": 6
+        },
+        {
+            "questionId": 1,
+            "factor": "lifestyle_job_hazards",
+            "question": "Are you exposed to chemicals or dangerous scenarios in your work environment?",
+            "options": [
+                "Industrial chemicals",
+                "Pesticides",
+                "Cleaning agents",
+                "Heights",
+                "Offshore",
+                "Construction",
+                "Army",
+                "Yes, not mentioned above",
+                "No"
+            ],
+            "answer": 8
+        },
+        {
+            "questionId": 2,
+            "factor": "lifestyle_smoking",
+            "question": "How many cigarettes (or equivalent) do you smoke per day?",
+            "options": [
+                "Less than 5",
+                "5-10",
+                "11-20",
+                "More than 20",
+                "I do not smoke"
+            ],
+            "answer": 4
+        },
+        {
+            "questionId": 3,
+            "factor": "lifestyle_diet",
+            "question": "How would you describe your typical diet?",
+            "options": [
+                "Very healthy (balanced, mostly whole foods)",
+                "Moderately healthy (occasional fast food, moderate processed foods)",
+                "Unhealthy (frequent fast food, high processed food intake)"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 4,
+            "factor": "lifestyle_exercise",
+            "question": "How often do you exercise in a week?",
+            "options": [
+                "Less than once",
+                "1-2 times",
+                "3-4 times",
+                "5 times or more"
+            ],
+            "answer": 3
+        },
+        {
+            "questionId": 5,
+            "factor": "lifestyle_alcohol",
+            "question": "How much alcohol do you consume per week?",
+            "options": [
+                "More than 10 drinks",
+                "6-10 drinks",
+                "1-5 drinks",
+                "Occasionally, but less than once a week",
+                "I do not drink"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 6,
+            "factor": "lifestyle_drugs",
+            "question": "Do you have any history of drug abuse or addiction?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 7,
+            "factor": "lifestyle_sleep",
+            "question": "How many hours of sleep do you typically get per night?",
+            "options": [
+                "Less than 5",
+                "5-7",
+                "7-8",
+                "More than 8"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 8,
+            "factor": "lifestyle_stress",
+            "question": "Do you experience high stress due to work, personal life, or other factors?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 9,
+            "factor": "lifestyle_unsafe_sex",
+            "question": "Have you engaged in sexual activities without taking precautions to prevent sexually transmitted infections (STIs)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 10,
+            "factor": "lifestyle_air_pollution",
+            "question": "Do you live in an area with good air quality, free from pollution or excessive environmental hazards?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 11,
+            "factor": "lifestyle_loneliness",
+            "question": "Do you regularly feel socially isolated to a degree that affects your well-being?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 12,
+            "factor": "lifestyle_crime",
+            "question": "Do you live in an area with frequent criminal activity?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 13,
+            "factor": "lifestyle_natural_disasters",
+            "question": "Do you live in an area with a significant occurence of natural disasters?",
+            "options": [
+                "Mostly wildfires",
+                "Mostly landslides or earthquakes",
+                "Mostly floods or hurricanes",
+                "Not really"
+            ],
+            "answer": 3
+        },
+        {
+            "questionId": 14,
+            "factor": "lifestyle_driving",
+            "question": "Have you engaged in reckless driving behaviors, such as speeding, tailgating, or driving under the influence?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 15,
+            "factor": "lifestyle_dangerous_hobbies",
+            "question": "Do you participate in extreme sports or activities (e.g., skydiving, rock climbing) that carry a risk of injury?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        }
+    ],
+    "risk": 12,
+    "discrepancies": []
+}

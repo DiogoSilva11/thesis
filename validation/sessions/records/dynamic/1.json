@@ -1,0 +1,438 @@
+{
+    "id": "1",
+    "basic_info": [
+        "age: 15-24",
+        "gender: Male",
+        "marital: Single",
+        "location: Póvoa de Varzim",
+        "occupation: Software developer"
+    ],
+    "geo_indicators": [
+        "mortality from healthcare-sensitive causes: very low",
+        "poverty-sensitive mortality: very low",
+        "mortality from suicide and self-inflicted injuries: very low",
+        "mortality sensitive to tobacco consumption: very low",
+        "obesity in population aged 18 and over: very low",
+        "distance to public hospitals: very low",
+        "nurses in primary health care: very low",
+        "users without a family doctor: very low",
+        "population aged 15 and over who do not exercise: very low",
+        "school dropout rate: very low",
+        "illiteracy rate: very low",
+        "youth unemployment rate: very low",
+        "long-term unemployment rate: very low",
+        "elderly population living alone: very low",
+        "population aged between 15 and 34 who neither work nor study: very low",
+        "beneficiaries of social integration income: very low",
+        "population using cars or motorcycles daily: very high",
+        "harmful noise levels: very low",
+        "accommodation without heating: very low",
+        "unsanitary housing: very low"
+    ],
+    "health_records": [
+        "Tobacco smoking status: Never smoker ",
+        "Hospital admission",
+        "Body Height: 181 cm",
+        "Encounter for problem (procedure)",
+        "Physical examination",
+        "Encounter for check up (procedure)",
+        "DTaP",
+        "Body Weight: 92 kg",
+        "General examination of patient (procedure)",
+        "Follow-up visit (procedure)",
+        "Hep B adolescent or pediatric",
+        "Encounter for symptom",
+        "HPV quadrivalent",
+        "Ibuprofen 200 MG Oral Tablet"
+    ],
+    "posts": [],
+    "record": [
+        {
+            "questionId": 1,
+            "factor": "personal_age",
+            "question": "How old are you?",
+            "options": [
+                "15-24",
+                "25-39",
+                "40-59",
+                "60 and above"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 2,
+            "factor": "personal_gender",
+            "question": "What gender are you?",
+            "options": [
+                "Male",
+                "Female",
+                "Other"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 3,
+            "factor": "personal_marital",
+            "question": "What is your current marital status?",
+            "options": [
+                "Single",
+                "Married",
+                "Divorced",
+                "Widowed",
+                "Other"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 4,
+            "factor": "personal_location",
+            "question": "Which municipality do you currently live in?",
+            "options": [
+                "Alfândega da Fé",
+                "Amares",
+                "Braga",
+                "Bragança",
+                "Gondomar",
+                "Maia",
+                "Matosinhos",
+                "Monção",
+                "Paredes",
+                "Penafiel",
+                "Porto",
+                "Póvoa de Lanhoso",
+                "Santo Tirso",
+                "Valença",
+                "Valongo",
+                "Viana do Castelo",
+                "Vila Nova de Famalicão",
+                "Vila Pouca de Aguiar",
+                "Vila Real",
+                "Alenquer",
+                "Coimbra",
+                "Figueira da Foz",
+                "Guarda",
+                "Lourinhã",
+                "Lousã",
+                "Miranda do Corvo",
+                "Pombal",
+                "Soure",
+                "Tábua",
+                "Torres Vedras",
+                "Alcochete",
+                "Almada",
+                "Amadora",
+                "Barreiro",
+                "Lisboa",
+                "Loures",
+                "Montijo",
+                "Odivelas",
+                "Oeiras",
+                "Palmela",
+                "Seixal",
+                "Sesimbra",
+                "Setúbal",
+                "Vila Franca de Xira",
+                "Almodôvar",
+                "Alvito",
+                "Avis",
+                "Azambuja",
+                "Barrancos",
+                "Beja",
+                "Chamusca",
+                "Cuba",
+                "Golegã",
+                "Grândola",
+                "Odemira",
+                "Serpa",
+                "Viana do Alentejo",
+                "Vidigueira",
+                "Castro Marim",
+                "Lagoa",
+                "Loulé",
+                "Monchique",
+                "Portimão",
+                "Tavira",
+                "Calheta (Açores)",
+                "Lagoa (Açores)",
+                "Ponta Delgada (Açores)",
+                "Ribeira Grande (Açores)",
+                "São Roque do Pico (Açores)",
+                "Porto Santo (Madeira)"
+            ],
+            "answer": 15
+        },
+        {
+            "questionId": 5,
+            "factor": "personal_occupation",
+            "question": "What is your current occupation?",
+            "options": [
+                "Student",
+                "Retired",
+                "Military general",
+                "Combat engineer",
+                "Army medic",
+                "Military police officer",
+                "Special forces operative",
+                "Radar operator",
+                "Naval officer",
+                "Air force pilot",
+                "Chief executive officer",
+                "Finance manager",
+                "Sales manager",
+                "Human resources manager",
+                "Restaurant manager",
+                "Construction manager",
+                "Medical doctor",
+                "Civil engineer",
+                "Lawyer",
+                "Software developer",
+                "Nurse",
+                "Teacher",
+                "Medical laboratory technician",
+                "Computer network technician",
+                "Broadcasting technician",
+                "Engineering technician",
+                "Pharmacy technician",
+                "Social work associate professional",
+                "General office clerk",
+                "Receptionist",
+                "Accounting clerk",
+                "Data entry clerk",
+                "Mail carrier",
+                "Secretary (general)",
+                "Office worker",
+                "Call center associate",
+                "Retail salesperson",
+                "Waiter",
+                "Hairdresser",
+                "Security guard",
+                "Travel attendant",
+                "Hotel front desk clerk",
+                "Retail worker",
+                "Crop farm worker",
+                "Livestock worker",
+                "Farmer",
+                "Forestry worker",
+                "Fishery worker",
+                "Beekeeper",
+                "Agricultural technician",
+                "Electrician",
+                "Plumber",
+                "Welder",
+                "Carpenter",
+                "Tailor",
+                "Motor vehicle mechanic",
+                "Tradesperson",
+                "Industrial machinery operator",
+                "Forklift driver",
+                "Textile machine operator",
+                "Assembler (electronics)",
+                "Crane operator",
+                "Packaging machine operator"
+            ],
+            "answer": 19
+        },
+        {
+            "factor": "lifestyle_driving",
+            "question": "Have you engaged in reckless driving behaviors, such as speeding, tailgating, or driving under the influence?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "prediction": 1,
+            "confidence": 1.0,
+            "explanation": "The user is a young software developer with no indicators of risky health behaviors (never smoker, regular checkups, no mention of substance abuse). The city has very low rates of mortality from risky behaviors, and the user’s health records suggest a generally responsible lifestyle. While daily car use is high in the city, there is no evidence to suggest this user engages in reckless driving.",
+            "answer": 1
+        },
+        {
+            "factor": "health_injury",
+            "question": "Have you ever experienced a serious injury?",
+            "options": [
+                "Brain",
+                "Spinal",
+                "Severe burn",
+                "Internal organs",
+                "Complicated fractures",
+                "Other",
+                "No"
+            ],
+            "prediction": 6,
+            "confidence": 1.0,
+            "explanation": "There is no evidence in the provided health records or city indicators suggesting a history of serious injuries such as brain, spinal, severe burns, internal organ damage, or complicated fractures. The user has had general checkups, vaccinations, and a hospital admission, but nothing specifically points to a serious injury.",
+            "answer": 6
+        },
+        {
+            "questionId": 1,
+            "factor": "lifestyle_job_hazards",
+            "question": "Are you exposed to chemicals or dangerous scenarios in your work environment?",
+            "options": [
+                "Industrial chemicals",
+                "Pesticides",
+                "Cleaning agents",
+                "Heights",
+                "Offshore",
+                "Construction",
+                "Army",
+                "Yes, not mentioned above",
+                "No"
+            ],
+            "answer": 8
+        },
+        {
+            "questionId": 2,
+            "factor": "lifestyle_smoking",
+            "question": "How many cigarettes (or equivalent) do you smoke per day?",
+            "options": [
+                "Less than 5",
+                "5-10",
+                "11-20",
+                "More than 20",
+                "I do not smoke"
+            ],
+            "answer": 4
+        },
+        {
+            "questionId": 3,
+            "factor": "lifestyle_diet",
+            "question": "How would you describe your typical diet?",
+            "options": [
+                "Very healthy (balanced, mostly whole foods)",
+                "Moderately healthy (occasional fast food, moderate processed foods)",
+                "Unhealthy (frequent fast food, high processed food intake)"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 4,
+            "factor": "lifestyle_exercise",
+            "question": "How often do you exercise in a week?",
+            "options": [
+                "Less than once",
+                "1-2 times",
+                "3-4 times",
+                "5 times or more"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 5,
+            "factor": "lifestyle_alcohol",
+            "question": "How much alcohol do you consume per week?",
+            "options": [
+                "More than 10 drinks",
+                "6-10 drinks",
+                "1-5 drinks",
+                "Occasionally, but less than once a week",
+                "I do not drink"
+            ],
+            "answer": 3
+        },
+        {
+            "questionId": 6,
+            "factor": "lifestyle_drugs",
+            "question": "Do you have any history of drug abuse or addiction?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 7,
+            "factor": "lifestyle_sleep",
+            "question": "How many hours of sleep do you typically get per night?",
+            "options": [
+                "Less than 5",
+                "5-7",
+                "7-8",
+                "More than 8"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 8,
+            "factor": "lifestyle_stress",
+            "question": "Do you experience high stress due to work, personal life, or other factors?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 9,
+            "factor": "lifestyle_healthcare_access",
+            "question": "Do you have easy access to healthcare services for check-ups and treatments?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 10,
+            "factor": "lifestyle_health_checkups",
+            "question": "How often do you visit a healthcare provider for checkups?",
+            "options": [
+                "Regularly, at least once a year",
+                "Occasionally, only when I feel unwell",
+                "I haven't visited a doctor in years",
+                "I visit a specialist for specific concerns",
+                "I avoid visiting healthcare providers"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 11,
+            "factor": "lifestyle_unsafe_sex",
+            "question": "Have you engaged in sexual activities without taking precautions to prevent sexually transmitted infections (STIs)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 12,
+            "factor": "lifestyle_socioeconomic_status",
+            "question": "Are you currently facing financial challenges that impact your access to health resources or overall well-being?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 13,
+            "factor": "lifestyle_air_pollution",
+            "question": "Do you live in an area with good air quality, free from pollution or excessive environmental hazards?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 14,
+            "factor": "lifestyle_loneliness",
+            "question": "Do you regularly feel socially isolated to a degree that affects your well-being?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 15,
+            "factor": "lifestyle_dangerous_hobbies",
+            "question": "Do you participate in extreme sports or activities (e.g., skydiving, rock climbing) that carry a risk of injury?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        }
+    ],
+    "risk": 14,
+    "discrepancies": []
+}

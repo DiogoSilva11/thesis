@@ -1,0 +1,534 @@
+{
+    "id": "1",
+    "basic_info": [],
+    "geo_indicators": [],
+    "health_records": [],
+    "posts": [],
+    "record": [
+        {
+            "questionId": 1,
+            "factor": "personal_age",
+            "question": "How old are you?",
+            "options": [
+                "15-24",
+                "25-39",
+                "40-59",
+                "60 and above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 2,
+            "factor": "personal_gender",
+            "question": "What gender are you?",
+            "options": [
+                "Male",
+                "Female",
+                "Other"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 3,
+            "factor": "personal_marital",
+            "question": "What is your current marital status?",
+            "options": [
+                "Single",
+                "Married",
+                "Divorced",
+                "Widowed",
+                "Other"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 4,
+            "factor": "personal_location",
+            "question": "Which municipality do you currently live in?",
+            "options": [
+                "Alfândega da Fé",
+                "Amares",
+                "Braga",
+                "Bragança",
+                "Gondomar",
+                "Maia",
+                "Matosinhos",
+                "Monção",
+                "Paredes",
+                "Penafiel",
+                "Porto",
+                "Póvoa de Lanhoso",
+                "Santo Tirso",
+                "Valença",
+                "Valongo",
+                "Viana do Castelo",
+                "Vila Nova de Famalicão",
+                "Vila Pouca de Aguiar",
+                "Vila Real",
+                "Alenquer",
+                "Coimbra",
+                "Figueira da Foz",
+                "Guarda",
+                "Lourinhã",
+                "Lousã",
+                "Miranda do Corvo",
+                "Pombal",
+                "Soure",
+                "Tábua",
+                "Torres Vedras",
+                "Alcochete",
+                "Almada",
+                "Amadora",
+                "Barreiro",
+                "Lisboa",
+                "Loures",
+                "Montijo",
+                "Odivelas",
+                "Oeiras",
+                "Palmela",
+                "Seixal",
+                "Sesimbra",
+                "Setúbal",
+                "Vila Franca de Xira",
+                "Almodôvar",
+                "Alvito",
+                "Avis",
+                "Azambuja",
+                "Barrancos",
+                "Beja",
+                "Chamusca",
+                "Cuba",
+                "Golegã",
+                "Grândola",
+                "Odemira",
+                "Serpa",
+                "Viana do Alentejo",
+                "Vidigueira",
+                "Castro Marim",
+                "Lagoa",
+                "Loulé",
+                "Monchique",
+                "Portimão",
+                "Tavira",
+                "Calheta (Açores)",
+                "Lagoa (Açores)",
+                "Ponta Delgada (Açores)",
+                "Ribeira Grande (Açores)",
+                "São Roque do Pico (Açores)",
+                "Porto Santo (Madeira)"
+            ],
+            "answer": 15
+        },
+        {
+            "questionId": 5,
+            "factor": "personal_occupation",
+            "question": "What is your current occupation?",
+            "options": [
+                "Student",
+                "Retired",
+                "Military general",
+                "Combat engineer",
+                "Army medic",
+                "Military police officer",
+                "Special forces operative",
+                "Radar operator",
+                "Naval officer",
+                "Air force pilot",
+                "Chief executive officer",
+                "Finance manager",
+                "Sales manager",
+                "Human resources manager",
+                "Restaurant manager",
+                "Construction manager",
+                "Medical doctor",
+                "Civil engineer",
+                "Lawyer",
+                "Software developer",
+                "Nurse",
+                "Teacher",
+                "Medical laboratory technician",
+                "Computer network technician",
+                "Broadcasting technician",
+                "Engineering technician",
+                "Pharmacy technician",
+                "Social work associate professional",
+                "General office clerk",
+                "Receptionist",
+                "Accounting clerk",
+                "Data entry clerk",
+                "Mail carrier",
+                "Secretary (general)",
+                "Office worker",
+                "Call center associate",
+                "Retail salesperson",
+                "Waiter",
+                "Hairdresser",
+                "Security guard",
+                "Travel attendant",
+                "Hotel front desk clerk",
+                "Retail worker",
+                "Crop farm worker",
+                "Livestock worker",
+                "Farmer",
+                "Forestry worker",
+                "Fishery worker",
+                "Beekeeper",
+                "Agricultural technician",
+                "Electrician",
+                "Plumber",
+                "Welder",
+                "Carpenter",
+                "Tailor",
+                "Motor vehicle mechanic",
+                "Tradesperson",
+                "Industrial machinery operator",
+                "Forklift driver",
+                "Textile machine operator",
+                "Assembler (electronics)",
+                "Crane operator",
+                "Packaging machine operator"
+            ],
+            "answer": 19
+        },
+        {
+            "questionId": 1,
+            "factor": "lifestyle_job_hazards",
+            "question": "Are you exposed to chemicals or dangerous scenarios in your work environment?",
+            "options": [
+                "Industrial chemicals",
+                "Pesticides",
+                "Cleaning agents",
+                "Heights",
+                "Offshore",
+                "Construction",
+                "Army",
+                "Yes, not mentioned above",
+                "No"
+            ],
+            "answer": 8
+        },
+        {
+            "questionId": 2,
+            "factor": "lifestyle_smoking",
+            "question": "How many cigarettes (or equivalent) do you smoke per day?",
+            "options": [
+                "Less than 5",
+                "5-10",
+                "11-20",
+                "More than 20",
+                "I do not smoke"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 3,
+            "factor": "lifestyle_diet",
+            "question": "How would you describe your typical diet?",
+            "options": [
+                "Very healthy (balanced, mostly whole foods)",
+                "Moderately healthy (occasional fast food, moderate processed foods)",
+                "Unhealthy (frequent fast food, high processed food intake)"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 4,
+            "factor": "lifestyle_exercise",
+            "question": "How often do you exercise in a week?",
+            "options": [
+                "Less than once",
+                "1-2 times",
+                "3-4 times",
+                "5 times or more"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 5,
+            "factor": "lifestyle_alcohol",
+            "question": "How much alcohol do you consume per week?",
+            "options": [
+                "More than 10 drinks",
+                "6-10 drinks",
+                "1-5 drinks",
+                "Occasionally, but less than once a week",
+                "I do not drink"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 6,
+            "factor": "lifestyle_drugs",
+            "question": "Do you have any history of drug abuse or addiction?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 7,
+            "factor": "lifestyle_sleep",
+            "question": "How many hours of sleep do you typically get per night?",
+            "options": [
+                "Less than 5",
+                "5-7",
+                "7-8",
+                "More than 8"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 8,
+            "factor": "lifestyle_stress",
+            "question": "Do you experience high stress due to work, personal life, or other factors?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 9,
+            "factor": "lifestyle_healthcare_access",
+            "question": "Do you have easy access to healthcare services for check-ups and treatments?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 10,
+            "factor": "lifestyle_health_checkups",
+            "question": "How often do you visit a healthcare provider for checkups?",
+            "options": [
+                "Regularly, at least once a year",
+                "Occasionally, only when I feel unwell",
+                "I haven't visited a doctor in years",
+                "I visit a specialist for specific concerns",
+                "I avoid visiting healthcare providers"
+            ],
+            "answer": 4
+        },
+        {
+            "questionId": 1,
+            "factor": "family_cancer",
+            "question": "Has any biological family member been diagnosed with cancer?",
+            "options": [
+                "Lung",
+                "Breast",
+                "Prostate",
+                "Colon",
+                "Other",
+                "No"
+            ],
+            "answer": 4
+        },
+        {
+            "questionId": 2,
+            "factor": "family_heart",
+            "question": "Has any biological family member been diagnosed with heart disease (e.g., heart attack, coronary artery disease)?",
+            "options": [
+                "Yes, before age 50",
+                "Yes, after age 50",
+                "No"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 3,
+            "factor": "family_stroke",
+            "question": "Has any biological family member had a stroke?",
+            "options": [
+                "Yes, before age 50",
+                "Yes, after age 50",
+                "No"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 4,
+            "factor": "family_diabetes",
+            "question": "Has any biological family member been diagnosed with diabetes?",
+            "options": [
+                "Yes, type 1",
+                "Yes, type 2",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 5,
+            "factor": "family_hypertension",
+            "question": "Has any biological family member been diagnosed with high blood pressure (hypertension)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 6,
+            "factor": "family_kidney",
+            "question": "Has any biological family member been diagnosed with kidney disease?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 7,
+            "factor": "family_neurological",
+            "question": "Has any biological family member been diagnosed with a neurological condition (e.g., Alzheimer's, Parkinson's)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 8,
+            "factor": "family_epilepsy",
+            "question": "Has anyone in your family been diagnosed with epilepsy or seizure disorders?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 9,
+            "factor": "family_longevity",
+            "question": "Have most of your biological family members lived beyond the age of 75?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        },
+        {
+            "questionId": 10,
+            "factor": "family_death_cause",
+            "question": "If a biological parent has passed away, what was the cause?",
+            "options": [
+                "Heart disease",
+                "Cancer",
+                "Stroke",
+                "Accident",
+                "Other",
+                "Not applicable"
+            ],
+            "answer": 5
+        },
+        {
+            "questionId": 1,
+            "factor": "health_cancer",
+            "question": "Have you ever been diagnosed with cancer?",
+            "options": [
+                "Lung",
+                "Breast",
+                "Prostate",
+                "Colon",
+                "Other",
+                "No"
+            ],
+            "answer": 5
+        },
+        {
+            "questionId": 2,
+            "factor": "health_heart",
+            "question": "Have you been diagnosed with heart disease (e.g., heart attack, coronary artery disease)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 3,
+            "factor": "health_stroke",
+            "question": "Have you ever had a stroke or mini-stroke (TIA)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 4,
+            "factor": "health_diabetes",
+            "question": "Have you been diagnosed with diabetes?",
+            "options": [
+                "Yes, Type 1",
+                "Yes, Type 2",
+                "No"
+            ],
+            "answer": 2
+        },
+        {
+            "questionId": 5,
+            "factor": "health_hypertension",
+            "question": "Have you been diagnosed with high blood pressure (hypertension)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 6,
+            "factor": "health_weight",
+            "question": "How would you describe your current weight status?",
+            "options": [
+                "Underweight",
+                "Healthy weight",
+                "Overweight"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 7,
+            "factor": "health_respiratory",
+            "question": "Do you have or have you ever had any respiratory conditions (e.g., asthma, COPD)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 8,
+            "factor": "health_kidney",
+            "question": "Have you ever been diagnosed with kidney disease or kidney failure?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 9,
+            "factor": "health_anemia",
+            "question": "Have you been diagnosed with anemia or a blood disorder?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 1
+        },
+        {
+            "questionId": 10,
+            "factor": "health_neurological",
+            "question": "Have you been diagnosed with a neurological disorder (e.g., Parkinson's, multiple sclerosis)?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0
+        }
+    ],
+    "risk": 46,
+    "discrepancies": []
+}
