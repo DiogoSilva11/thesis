@@ -3,7 +3,7 @@
 **Diogo Silva**  
 **June 30, 2025**
 
-## ARQuest
+## ARQuest (Adaptive Risk Questioning)
 
 This project proposes a solution to personalize insurance questionnaires by adjusting the questions
 to the users, aiming at an improved subscription experience and a more precise risk assessment.
