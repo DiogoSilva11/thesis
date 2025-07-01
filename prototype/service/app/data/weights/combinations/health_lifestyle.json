@@ -1,0 +1,149 @@
+[
+    {
+        "combination": {
+            "health_cancer": [0],
+            "lifestyle_smoking": [1, 2, 3]
+        },
+        "weight": 7
+    },
+    {
+        "combination": {
+            "health_cancer": [3],
+            "lifestyle_diet": [2]
+        },
+        "weight": 6
+    },
+    {
+        "combination": {
+            "health_heart": [0],
+            "lifestyle_smoking": [1, 2, 3]
+        },
+        "weight": 8
+    },
+    {
+        "combination": {
+            "health_stroke": [0],
+            "lifestyle_diet": [2]
+        },
+        "weight": 7
+    },
+    {
+        "combination": {
+            "health_diabetes": [0, 1],
+            "lifestyle_diet": [2]
+        },
+        "weight": 6
+    },
+    {
+        "combination": {
+            "health_hypertension": [0],
+            "lifestyle_stress": [0]
+        },
+        "weight": 5
+    },
+    {
+        "combination": {
+            "health_weight": [0, 2],
+            "lifestyle_exercise": [0]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "health_respiratory": [0],
+            "lifestyle_air_pollution": [0]
+        },
+        "weight": 6
+    },
+    {
+        "combination": {
+            "health_kidney": [0],
+            "lifestyle_drugs": [0]
+        },
+        "weight": 7
+    },
+    {
+        "combination": {
+            "health_anemia": [0],
+            "lifestyle_diet": [2]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "health_neurological": [0],
+            "lifestyle_sleep": [0]
+        },
+        "weight": 5
+    },
+    {
+        "combination": {
+            "health_mental_illness": [0],
+            "lifestyle_loneliness": [0]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "health_liver": [0],
+            "lifestyle_alcohol": [0, 1]
+        },
+        "weight": 7
+    },
+    {
+        "combination": {
+            "health_cholesterol": [0],
+            "lifestyle_diet": [2]
+        },
+        "weight": 5
+    },
+    {
+        "combination": {
+            "health_autoimmune_disease": [0],
+            "lifestyle_stress": [0]
+        },
+        "weight": 5
+    },
+    {
+        "combination": {
+            "health_infections": [0],
+            "lifestyle_unsafe_sex": [0]
+        },
+        "weight": 6
+    },
+    {
+        "combination": {
+            "health_pregnancy": [0],
+            "lifestyle_healthcare_access": [1]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "health_bones": [0],
+            "lifestyle_exercise": [0]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "health_circulatory": [0],
+            "lifestyle_smoking": [1, 2, 3]
+        },
+        "weight": 6
+    },
+    {
+        "combination": {
+            "health_injury": [0, 1, 2, 3, 4, 5],
+            "lifestyle_dangerous_hobbies": [0]
+        },
+        "weight": 5
+    },
+    {
+        "combination": {
+            "health_digestive_condition": [0],
+            "lifestyle_diet": [2]
+        },
+        "weight": 4
+    }
+]

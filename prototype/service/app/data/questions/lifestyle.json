@@ -1,0 +1,82 @@
+{
+    "lifestyle_job_hazards": {
+        "question": "Are you exposed to chemicals or dangerous scenarios in your work environment?",
+        "options": ["Industrial chemicals", "Pesticides", "Cleaning agents", "Heights", "Offshore", "Construction", "Army", "Yes, not mentioned above", "No"]
+    },
+    "lifestyle_smoking": {
+        "question": "How many cigarettes (or equivalent) do you smoke per day?",
+        "options": ["Less than 5", "5-10", "11-20", "More than 20", "I do not smoke"]
+    },
+    "lifestyle_diet": {
+        "question": "How would you describe your typical diet?",
+        "options": ["Very healthy (balanced, mostly whole foods)", "Moderately healthy (occasional fast food, moderate processed foods)", "Unhealthy (frequent fast food, high processed food intake)"]
+    },
+    "lifestyle_exercise": {
+        "question": "How often do you exercise in a week?",
+        "options": ["Less than once", "1-2 times", "3-4 times", "5 times or more"]
+    },
+    "lifestyle_alcohol": {
+        "question": "How much alcohol do you consume per week?",
+        "options": ["More than 10 drinks", "6-10 drinks", "1-5 drinks", "Occasionally, but less than once a week", "I do not drink"]
+    },
+    "lifestyle_drugs": {
+        "question": "Do you have any history of drug abuse or addiction?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_sleep": {
+        "question": "How many hours of sleep do you typically get per night?",
+        "options": ["Less than 5", "5-7", "7-8", "More than 8"]
+    },
+    "lifestyle_stress": {
+        "question": "Do you experience high stress due to work, personal life, or other factors?",
+        "options": ["Yes","No"]
+    },
+    "lifestyle_healthcare_access": {
+        "question": "Do you have easy access to healthcare services for check-ups and treatments?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_health_checkups": {
+        "question": "How often do you visit a healthcare provider for checkups?",
+        "options": ["Regularly, at least once a year", "Occasionally, only when I feel unwell", "I haven't visited a doctor in years", "I visit a specialist for specific concerns", "I avoid visiting healthcare providers"]
+    },
+    "lifestyle_socioeconomic_status": {
+        "question": "Are you currently facing financial challenges that impact your access to health resources or overall well-being?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_air_pollution": {
+        "question": "Do you live in an area with good air quality, free from pollution or excessive environmental hazards?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_unsafe_sex": {
+        "question": "Have you engaged in sexual activities without taking precautions to prevent sexually transmitted infections (STIs)?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_loneliness": {
+        "question": "Do you regularly feel socially isolated to a degree that affects your well-being?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_crime": {
+        "question": "Do you live in an area with frequent criminal activity?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_natural_disasters": {
+        "question": "Do you live in an area with a significant occurence of natural disasters?",
+        "options": ["Mostly wildfires", "Mostly landslides or earthquakes", "Mostly floods or hurricanes", "Not really"]
+    },
+    "lifestyle_driving": {
+        "question": "Have you engaged in reckless driving behaviors, such as speeding, tailgating, or driving under the influence?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_dangerous_hobbies": {
+        "question": "Do you participate in extreme sports or activities (e.g., skydiving, rock climbing) that carry a risk of injury?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_housing": {
+        "question": "Do you live in conditions such as overcrowded housing or poor sanitation?",
+        "options": ["Yes", "No"]
+    },
+    "lifestyle_green_spaces": {
+        "question": "Do you often visit parks, nature trails, or other green spaces that encourage outdoor activities and relaxation?",
+        "options": ["Yes", "No"]
+    }
+}

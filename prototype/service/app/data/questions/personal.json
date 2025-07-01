@@ -1,0 +1,22 @@
+{
+    "personal_age": {
+        "question": "How old are you?",
+        "options": ["15-24", "25-39", "40-59", "60 and above"]
+    },
+    "personal_gender": {
+        "question": "What gender are you?",
+        "options": ["Male", "Female", "Other"]
+    },
+    "personal_marital": {
+        "question": "What is your current marital status?",
+        "options": ["Single", "Married", "Divorced", "Widowed", "Other"]
+    },
+    "personal_location": {
+        "question": "Which municipality do you currently live in?",
+        "options": ["Alfândega da Fé", "Amares", "Braga", "Bragança", "Gondomar", "Maia", "Matosinhos", "Monção", "Paredes", "Penafiel", "Porto", "Póvoa de Lanhoso", "Santo Tirso", "Valença", "Valongo", "Viana do Castelo", "Vila Nova de Famalicão", "Vila Pouca de Aguiar", "Vila Real", "Alenquer", "Coimbra", "Figueira da Foz", "Guarda", "Lourinhã", "Lousã", "Miranda do Corvo", "Pombal", "Soure", "Tábua", "Torres Vedras", "Alcochete", "Almada", "Amadora", "Barreiro", "Lisboa", "Loures", "Montijo", "Odivelas", "Oeiras", "Palmela", "Seixal", "Sesimbra", "Setúbal", "Vila Franca de Xira", "Almodôvar", "Alvito", "Avis", "Azambuja", "Barrancos", "Beja", "Chamusca", "Cuba", "Golegã", "Grândola", "Odemira", "Serpa", "Viana do Alentejo", "Vidigueira", "Castro Marim", "Lagoa", "Loulé", "Monchique", "Portimão", "Tavira", "Calheta (Açores)", "Lagoa (Açores)", "Ponta Delgada (Açores)", "Ribeira Grande (Açores)", "São Roque do Pico (Açores)", "Porto Santo (Madeira)"]
+    },
+    "personal_occupation": {
+        "question": "What is your current occupation?",
+        "options": ["Student", "Retired", "Military general", "Combat engineer", "Army medic", "Military police officer", "Special forces operative", "Radar operator", "Naval officer", "Air force pilot", "Chief executive officer", "Finance manager", "Sales manager", "Human resources manager", "Restaurant manager", "Construction manager", "Medical doctor", "Civil engineer", "Lawyer", "Software developer", "Nurse", "Teacher", "Medical laboratory technician", "Computer network technician", "Broadcasting technician", "Engineering technician", "Pharmacy technician", "Social work associate professional", "General office clerk", "Receptionist", "Accounting clerk", "Data entry clerk", "Mail carrier", "Secretary (general)", "Office worker", "Call center associate", "Retail salesperson", "Waiter", "Hairdresser", "Security guard", "Travel attendant", "Hotel front desk clerk", "Retail worker", "Crop farm worker", "Livestock worker", "Farmer", "Forestry worker", "Fishery worker", "Beekeeper", "Agricultural technician", "Electrician", "Plumber", "Welder", "Carpenter", "Tailor", "Motor vehicle mechanic", "Tradesperson", "Industrial machinery operator", "Forklift driver", "Textile machine operator", "Assembler (electronics)", "Crane operator", "Packaging machine operator"]
+    }
+}

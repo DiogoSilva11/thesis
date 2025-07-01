@@ -1,0 +1,11 @@
+faiss-cpu
+numpy
+sentence-transformers
+torchvision
+openai
+pandas
+fastapi
+uvicorn
+pydantic
+python-dotenv
+python-multipart
