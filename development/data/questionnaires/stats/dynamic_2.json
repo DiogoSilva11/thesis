@@ -1,0 +1,1131 @@
+{
+    "questionnaires": {
+        "ad2e9916-4979-40fc-a8c0-68651a0cb5a6": {
+            "pred_factors": 6,
+            "pred_time": 9.413874387741089,
+            "count": 15,
+            "avg_time": 1.0033353328704835,
+            "errors": 0
+        },
+        "b1e9b0b9-da6e-4f68-b603-bd896a50ca86": {
+            "pred_factors": 2,
+            "pred_time": 2.8387763500213623,
+            "count": 15,
+            "avg_time": 0.811528491973877,
+            "errors": 0
+        },
+        "f5dcd418-09fe-4a2f-baa0-3da800bd8c3a": {
+            "pred_factors": 5,
+            "pred_time": 8.63080620765686,
+            "count": 15,
+            "avg_time": 0.7086337407430013,
+            "errors": 0
+        },
+        "bfb6537b-535a-4f31-9a56-073220f96a17": {
+            "pred_factors": 7,
+            "pred_time": 11.09739637374878,
+            "count": 15,
+            "avg_time": 0.9264961878458658,
+            "errors": 0
+        },
+        "ad7c452d-c8e9-40ae-a5ed-90b7bd93d2ac": {
+            "pred_factors": 5,
+            "pred_time": 8.194920778274536,
+            "count": 15,
+            "avg_time": 0.9761434872945149,
+            "errors": 0
+        },
+        "f6df6e77-35dc-457b-b998-31b780ada07f": {
+            "pred_factors": 5,
+            "pred_time": 6.4780967235565186,
+            "count": 15,
+            "avg_time": 0.9731261412302653,
+            "errors": 0
+        },
+        "bb9a366c-e4d6-4dd0-9a70-e9f93529d6ff": {
+            "pred_factors": 10,
+            "pred_time": 12.318754196166992,
+            "count": 15,
+            "avg_time": 1.076261027654012,
+            "errors": 0
+        },
+        "8a8eb96d-354d-4d42-9716-738164a19a59": {
+            "pred_factors": 10,
+            "pred_time": 11.881755113601685,
+            "count": 15,
+            "avg_time": 0.9553941249847412,
+            "errors": 0
+        },
+        "f64742bf-8cac-4780-ae38-3e6781e0d008": {
+            "pred_factors": 7,
+            "pred_time": 8.808231830596924,
+            "count": 15,
+            "avg_time": 0.6938639322916667,
+            "errors": 0
+        },
+        "860aff27-7431-47ee-968e-554470683160": {
+            "pred_factors": 10,
+            "pred_time": 16.16414475440979,
+            "count": 15,
+            "avg_time": 0.7029573917388916,
+            "errors": 0
+        },
+        "5056439c-015e-4968-9281-2b8c72c3926e": {
+            "pred_factors": 4,
+            "pred_time": 4.639147996902466,
+            "count": 15,
+            "avg_time": 0.7631547609965007,
+            "errors": 0
+        },
+        "e05dd037-e45f-434a-946d-5c9076a2f596": {
+            "pred_factors": 8,
+            "pred_time": 11.365814924240112,
+            "count": 15,
+            "avg_time": 1.0111515045166015,
+            "errors": 0
+        },
+        "0c5aa52a-3b1d-4289-af16-29f7a2d07fec": {
+            "pred_factors": 7,
+            "pred_time": 11.480277061462402,
+            "count": 15,
+            "avg_time": 0.7156566778818766,
+            "errors": 0
+        },
+        "46768e09-6b9f-49fe-9480-529079f64562": {
+            "pred_factors": 6,
+            "pred_time": 9.698225498199463,
+            "count": 15,
+            "avg_time": 0.7442401885986328,
+            "errors": 0
+        },
+        "034e9e3b-2def-4559-bb2a-7850888ae060": {
+            "pred_factors": 9,
+            "pred_time": 15.972381830215454,
+            "count": 15,
+            "avg_time": 1.1732081254323319,
+            "errors": 0
+        },
+        "8908602e-5f0c-4f1e-847f-75a0043eeba7": {
+            "pred_factors": 12,
+            "pred_time": 19.549028396606445,
+            "count": 15,
+            "avg_time": 0.7652139663696289,
+            "errors": 0
+        },
+        "0983e422-3b48-4f1a-936b-bee5f0eb4695": {
+            "pred_factors": 3,
+            "pred_time": 3.223397731781006,
+            "count": 15,
+            "avg_time": 0.7575700124104817,
+            "errors": 0
+        },
+        "45c5c779-d2f9-4bf1-b6ff-deb7ff1fd54c": {
+            "pred_factors": 6,
+            "pred_time": 9.520699262619019,
+            "count": 15,
+            "avg_time": 1.1534735997517904,
+            "errors": 0
+        },
+        "ccbd3a61-50ff-4f6f-8d64-8105c3fc54cf": {
+            "pred_factors": 8,
+            "pred_time": 11.763829231262207,
+            "count": 15,
+            "avg_time": 1.0646383921305338,
+            "errors": 0
+        },
+        "fc4aa89c-e441-4c0b-841f-3d16ffe1b235": {
+            "pred_factors": 11,
+            "pred_time": 13.931142807006836,
+            "count": 15,
+            "avg_time": 0.8219795862833659,
+            "errors": 0
+        },
+        "76982e06-f8b8-4509-9ca3-65a99c8650fe": {
+            "pred_factors": 11,
+            "pred_time": 14.241413354873657,
+            "count": 15,
+            "avg_time": 0.7821325461069742,
+            "errors": 0
+        },
+        "aac107d8-5187-420f-a90c-448ad49dee41": {
+            "pred_factors": 8,
+            "pred_time": 9.74930715560913,
+            "count": 15,
+            "avg_time": 0.9958755175272623,
+            "errors": 0
+        },
+        "acb4817f-0ece-41d8-b179-82397a95a44a": {
+            "pred_factors": 6,
+            "pred_time": 6.952038764953613,
+            "count": 15,
+            "avg_time": 0.7098890145619711,
+            "errors": 0
+        },
+        "ed5cc81e-619f-471d-aee6-2934124c58e4": {
+            "pred_factors": 5,
+            "pred_time": 8.081952810287476,
+            "count": 15,
+            "avg_time": 0.7030143737792969,
+            "errors": 0
+        },
+        "3fe783d9-b8f8-4d21-b320-4fb7745702db": {
+            "pred_factors": 11,
+            "pred_time": 13.613617658615112,
+            "count": 15,
+            "avg_time": 0.7214848200480143,
+            "errors": 0
+        },
+        "e2885dfa-4d69-4ec3-b2a1-f3713356637f": {
+            "pred_factors": 8,
+            "pred_time": 10.18262243270874,
+            "count": 15,
+            "avg_time": 1.355348825454712,
+            "errors": 0
+        },
+        "7a8e4ef0-adf4-4e6d-8d28-5d36886547f4": {
+            "pred_factors": 6,
+            "pred_time": 10.12538766860962,
+            "count": 15,
+            "avg_time": 1.0033042907714842,
+            "errors": 0
+        },
+        "dadd331c-6143-41d1-bffb-d34b321ed157": {
+            "pred_factors": 5,
+            "pred_time": 7.020245552062988,
+            "count": 15,
+            "avg_time": 0.9855042139689127,
+            "errors": 0
+        },
+        "a47e5737-065e-416f-8257-0c9f14382065": {
+            "pred_factors": 4,
+            "pred_time": 6.114759206771851,
+            "count": 15,
+            "avg_time": 0.689515749613444,
+            "errors": 0
+        },
+        "bb089c44-7126-4acd-a2fa-5e10dfa77516": {
+            "pred_factors": 5,
+            "pred_time": 6.629826068878174,
+            "count": 15,
+            "avg_time": 0.7047852039337158,
+            "errors": 0
+        },
+        "d0355c37-6594-4147-91ff-8b82dfb0a6c2": {
+            "pred_factors": 10,
+            "pred_time": 12.361157417297363,
+            "count": 15,
+            "avg_time": 0.9643658955891927,
+            "errors": 0
+        },
+        "d5bf8e49-c70c-45df-9675-cf3dff4458d5": {
+            "pred_factors": 8,
+            "pred_time": 11.265811443328857,
+            "count": 15,
+            "avg_time": 0.9831645965576172,
+            "errors": 0
+        },
+        "552600f9-53d6-4d77-add6-0d364bb15b63": {
+            "pred_factors": 5,
+            "pred_time": 13.294147491455078,
+            "count": 15,
+            "avg_time": 0.9615906397501628,
+            "errors": 0
+        },
+        "8d4c4326-e9de-4f45-9a4c-f8c36bff89ae": {
+            "pred_factors": 5,
+            "pred_time": 8.491584062576294,
+            "count": 15,
+            "avg_time": 0.6959877490997315,
+            "errors": 0
+        },
+        "32885ae1-d031-4f52-8f91-0e5196f5462a": {
+            "pred_factors": 7,
+            "pred_time": 9.018839359283447,
+            "count": 15,
+            "avg_time": 0.7092336336771647,
+            "errors": 0
+        },
+        "28f36cfa-7696-4f73-ac4f-427e802199d9": {
+            "pred_factors": 9,
+            "pred_time": 15.793691396713257,
+            "count": 15,
+            "avg_time": 0.9333914279937744,
+            "errors": 0
+        },
+        "d286528e-a39a-4c04-8545-5e648f781052": {
+            "pred_factors": 6,
+            "pred_time": 7.422366619110107,
+            "count": 15,
+            "avg_time": 1.7307911396026612,
+            "errors": 0
+        },
+        "4a52ea9c-d410-4b78-a4da-6053e2ed0787": {
+            "pred_factors": 11,
+            "pred_time": 16.280016660690308,
+            "count": 15,
+            "avg_time": 1.3790167808532714,
+            "errors": 0
+        },
+        "449a9a85-5ffc-4df5-a090-9d6e4c6006cb": {
+            "pred_factors": 9,
+            "pred_time": 12.086256265640259,
+            "count": 15,
+            "avg_time": 0.9487884362538656,
+            "errors": 0
+        },
+        "d9f90c91-2e37-40ca-a574-89b33a120d16": {
+            "pred_factors": 6,
+            "pred_time": 7.137131690979004,
+            "count": 15,
+            "avg_time": 0.7848247528076172,
+            "errors": 0
+        },
+        "b1bc3c89-4e7b-41fd-a58b-9bf4ce2b40a9": {
+            "pred_factors": 4,
+            "pred_time": 7.686856746673584,
+            "count": 15,
+            "avg_time": 0.6955846468607585,
+            "errors": 0
+        },
+        "741831b4-d1a2-407b-b5d7-af61ff550867": {
+            "pred_factors": 7,
+            "pred_time": 12.501559972763062,
+            "count": 15,
+            "avg_time": 1.1528640747070313,
+            "errors": 0
+        },
+        "5be97219-ef35-4c5a-88ab-5f9a2187b7d6": {
+            "pred_factors": 11,
+            "pred_time": 15.872639656066895,
+            "count": 15,
+            "avg_time": 1.1192538102467855,
+            "errors": 0
+        },
+        "bb9d00fe-b16e-4832-8aec-b1e9d480d48d": {
+            "pred_factors": 10,
+            "pred_time": 17.11517882347107,
+            "count": 15,
+            "avg_time": 0.9751262346903483,
+            "errors": 0
+        },
+        "dac134fa-7f57-4211-923a-e943a5c11d93": {
+            "pred_factors": 12,
+            "pred_time": 17.512079000473022,
+            "count": 15,
+            "avg_time": 1.023648166656494,
+            "errors": 0
+        },
+        "d324d82b-14a4-4a6d-a6f9-b76a1b83701a": {
+            "pred_factors": 13,
+            "pred_time": 16.876450300216675,
+            "count": 15,
+            "avg_time": 0.9500681400299072,
+            "errors": 0
+        },
+        "b58731cc-2d8b-4c2d-b327-4cab771af3ef": {
+            "pred_factors": 6,
+            "pred_time": 7.669384717941284,
+            "count": 15,
+            "avg_time": 0.9898631890614827,
+            "errors": 0
+        },
+        "2c634692-05d8-4122-9f46-dd9402e2cfc6": {
+            "pred_factors": 8,
+            "pred_time": 13.517002582550049,
+            "count": 15,
+            "avg_time": 1.1127903779347739,
+            "errors": 0
+        },
+        "8a9b659b-4fff-4cef-b189-adbc7914caca": {
+            "pred_factors": 7,
+            "pred_time": 7.47741961479187,
+            "count": 15,
+            "avg_time": 0.9896478017171225,
+            "errors": 0
+        },
+        "cad44a83-848c-4019-a175-291a150b9d05": {
+            "pred_factors": 12,
+            "pred_time": 17.629079341888428,
+            "count": 15,
+            "avg_time": 0.69853196144104,
+            "errors": 0
+        },
+        "71e13815-55fb-4734-bcac-6079160d82a0": {
+            "pred_factors": 6,
+            "pred_time": 8.602135419845581,
+            "count": 15,
+            "avg_time": 0.7168153762817383,
+            "errors": 0
+        },
+        "7f9a57e5-cfc5-4970-b19f-1a7b6ce22882": {
+            "pred_factors": 8,
+            "pred_time": 10.169394254684448,
+            "count": 15,
+            "avg_time": 1.1836810429890952,
+            "errors": 0
+        },
+        "7dea9311-ef15-4bb0-8d61-dde04dde3557": {
+            "pred_factors": 8,
+            "pred_time": 12.515044450759888,
+            "count": 15,
+            "avg_time": 1.1396116733551025,
+            "errors": 0
+        },
+        "d49f748f-928d-40e8-92c8-73e4c5679711": {
+            "pred_factors": 11,
+            "pred_time": 17.123053789138794,
+            "count": 15,
+            "avg_time": 1.2614939212799072,
+            "errors": 0
+        },
+        "31459cc4-45ed-4dee-b160-9f1a148a7724": {
+            "pred_factors": 6,
+            "pred_time": 10.240506887435913,
+            "count": 15,
+            "avg_time": 1.0032485008239747,
+            "errors": 0
+        },
+        "711d2093-5eb9-45a6-ad09-4b5c0371ad85": {
+            "pred_factors": 11,
+            "pred_time": 139.88418173789978,
+            "count": 15,
+            "avg_time": 0.7026107470194499,
+            "errors": 0
+        },
+        "c8403116-d069-4130-aa02-39954fc971b5": {
+            "pred_factors": 9,
+            "pred_time": 10.551219463348389,
+            "count": 15,
+            "avg_time": 1.0032190799713134,
+            "errors": 0
+        },
+        "50e7ede4-7ca1-4b2c-ae64-6b88b58eeaac": {
+            "pred_factors": 11,
+            "pred_time": 16.897136926651,
+            "count": 15,
+            "avg_time": 1.02370818456014,
+            "errors": 0
+        },
+        "73f124a4-e69e-4b8c-a447-e72d23dc54be": {
+            "pred_factors": 11,
+            "pred_time": 13.275872230529785,
+            "count": 15,
+            "avg_time": 0.9652618726094564,
+            "errors": 0
+        },
+        "14289f20-085c-4fc8-bdd8-e2074166d91f": {
+            "pred_factors": 10,
+            "pred_time": 11.573947668075562,
+            "count": 15,
+            "avg_time": 1.16025759379069,
+            "errors": 0
+        },
+        "8b17ff1e-2b24-46a9-83f7-f8a49e82c604": {
+            "pred_factors": 7,
+            "pred_time": 12.913968801498413,
+            "count": 15,
+            "avg_time": 0.9550119717915853,
+            "errors": 0
+        },
+        "a27da6fe-7844-4205-a84f-6db17bfb8935": {
+            "pred_factors": 7,
+            "pred_time": 9.405787706375122,
+            "count": 15,
+            "avg_time": 0.8462133566538493,
+            "errors": 0
+        },
+        "3e234e30-d471-4c3e-b433-220f2aa4a91d": {
+            "pred_factors": 16,
+            "pred_time": 25.703360080718994,
+            "count": 15,
+            "avg_time": 1.0919867674509685,
+            "errors": 0
+        },
+        "86b97fc7-ae8f-4e0d-8e66-db68f36e7a76": {
+            "pred_factors": 9,
+            "pred_time": 10.553999423980713,
+            "count": 15,
+            "avg_time": 0.8460644245147705,
+            "errors": 0
+        },
+        "47a91815-0dca-49df-b1dc-8bb88d8c1b38": {
+            "pred_factors": 10,
+            "pred_time": 14.809950351715088,
+            "count": 15,
+            "avg_time": 0.9378557523091634,
+            "errors": 0
+        },
+        "4b414e31-2791-4942-9c28-46a299805848": {
+            "pred_factors": 6,
+            "pred_time": 10.380463361740112,
+            "count": 15,
+            "avg_time": 0.710838238398234,
+            "errors": 0
+        },
+        "844d1c39-6ca2-48df-a3de-f9a12633f69c": {
+            "pred_factors": 13,
+            "pred_time": 17.06972622871399,
+            "count": 15,
+            "avg_time": 0.7164963245391845,
+            "errors": 0
+        },
+        "1c591f0d-95b1-4289-94a9-9713ab3834e7": {
+            "pred_factors": 5,
+            "pred_time": 8.993417024612427,
+            "count": 15,
+            "avg_time": 0.914442507425944,
+            "errors": 0
+        },
+        "bae73dce-20fa-4a6a-8e46-b2ed541f9296": {
+            "pred_factors": 16,
+            "pred_time": 27.496198177337646,
+            "count": 15,
+            "avg_time": 0.6995523770650228,
+            "errors": 0
+        },
+        "8d1ba4bb-7250-4295-be1c-5d0d423e55f7": {
+            "pred_factors": 11,
+            "pred_time": 18.340152978897095,
+            "count": 15,
+            "avg_time": 0.872556988398234,
+            "errors": 0
+        },
+        "2ffe9369-24e4-414b-8973-258fad09313a": {
+            "pred_factors": 11,
+            "pred_time": 18.956053018569946,
+            "count": 15,
+            "avg_time": 1.0574594020843509,
+            "errors": 0
+        },
+        "e4f1bd35-93ae-418b-b8cf-d39c3fbb069c": {
+            "pred_factors": 14,
+            "pred_time": 259.27563858032227,
+            "count": 15,
+            "avg_time": 0.9309202829996744,
+            "errors": 0
+        },
+        "f1678bde-4814-4d71-bca9-18fdf5282232": {
+            "pred_factors": 11,
+            "pred_time": 14.020307779312134,
+            "count": 15,
+            "avg_time": 0.9898599624633789,
+            "errors": 0
+        },
+        "8abe8efb-d431-4465-ad3b-7b3f301b845f": {
+            "pred_factors": 7,
+            "pred_time": 11.163517951965332,
+            "count": 15,
+            "avg_time": 0.7577446619669597,
+            "errors": 0
+        },
+        "d46af421-9bb5-4b8e-b763-b968a6bebd0c": {
+            "pred_factors": 9,
+            "pred_time": 14.503262996673584,
+            "count": 15,
+            "avg_time": 1.0102601051330566,
+            "errors": 0
+        },
+        "cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9": {
+            "pred_factors": 12,
+            "pred_time": 15.340837478637695,
+            "count": 15,
+            "avg_time": 1.1603200594584147,
+            "errors": 0
+        },
+        "b096000e-3f69-4940-89ce-1230ee9d5a0a": {
+            "pred_factors": 8,
+            "pred_time": 10.064024209976196,
+            "count": 15,
+            "avg_time": 1.0151044845581054,
+            "errors": 0
+        },
+        "c1b80a65-61e0-4f1b-9e1f-122c6d326034": {
+            "pred_factors": 7,
+            "pred_time": 10.137975692749023,
+            "count": 15,
+            "avg_time": 0.7371213912963868,
+            "errors": 0
+        },
+        "76353d9c-9861-4ca8-8d24-d458b1e88da5": {
+            "pred_factors": 6,
+            "pred_time": 7.830345630645752,
+            "count": 15,
+            "avg_time": 0.9952078501383463,
+            "errors": 0
+        },
+        "09616ead-22c8-4210-8cb9-2fdc28e043ca": {
+            "pred_factors": 8,
+            "pred_time": 12.8018159866333,
+            "count": 15,
+            "avg_time": 1.160278574625651,
+            "errors": 0
+        },
+        "be249d5b-327e-4c30-8fb2-3a1c587fe5ad": {
+            "pred_factors": 10,
+            "pred_time": 11.742785453796387,
+            "count": 15,
+            "avg_time": 1.1763529936472574,
+            "errors": 0
+        },
+        "a708bca4-8fc9-4567-8c22-8b13d44f4f45": {
+            "pred_factors": 16,
+            "pred_time": 19.33580756187439,
+            "count": 15,
+            "avg_time": 1.1808710734049477,
+            "errors": 0
+        },
+        "b2b612b0-d4ac-4b83-8d33-4ed6b295c01c": {
+            "pred_factors": 13,
+            "pred_time": 21.81254506111145,
+            "count": 15,
+            "avg_time": 1.214930248260498,
+            "errors": 0
+        },
+        "fdb2a2ee-09c2-499b-b324-d998d5226f19": {
+            "pred_factors": 12,
+            "pred_time": 18.22641658782959,
+            "count": 15,
+            "avg_time": 0.7030935923258463,
+            "errors": 0
+        },
+        "47392cc2-4fb3-4431-b56f-c54688671786": {
+            "pred_factors": 11,
+            "pred_time": 17.406118392944336,
+            "count": 15,
+            "avg_time": 1.1400280157725016,
+            "errors": 0
+        }
+    },
+    "lifestyle": {
+        "lifestyle_job_hazards": {
+            "count": 66,
+            "answers": [
+                1,
+                1,
+                2,
+                0,
+                0,
+                3,
+                0,
+                4,
+                55
+            ],
+            "avg_time": 0.9401527896071925
+        },
+        "lifestyle_smoking": {
+            "count": 75,
+            "answers": [
+                0,
+                0,
+                0,
+                0,
+                75
+            ],
+            "avg_time": 0.9459688949584961
+        },
+        "lifestyle_diet": {
+            "count": 82,
+            "answers": [
+                12,
+                40,
+                30
+            ],
+            "avg_time": 0.9580034831675087
+        },
+        "lifestyle_exercise": {
+            "count": 77,
+            "answers": [
+                17,
+                17,
+                27,
+                16
+            ],
+            "avg_time": 0.9554109573364258
+        },
+        "lifestyle_alcohol": {
+            "count": 80,
+            "answers": [
+                7,
+                17,
+                25,
+                16,
+                15
+            ],
+            "avg_time": 0.9356231033802033
+        },
+        "lifestyle_drugs": {
+            "count": 82,
+            "answers": [
+                2,
+                80
+            ],
+            "avg_time": 0.9518346582970968
+        },
+        "lifestyle_sleep": {
+            "count": 85,
+            "answers": [
+                3,
+                12,
+                57,
+                13
+            ],
+            "avg_time": 0.9517157049740061
+        },
+        "lifestyle_stress": {
+            "count": 76,
+            "answers": [
+                30,
+                46
+            ],
+            "avg_time": 0.9733116689481234
+        },
+        "lifestyle_healthcare_access": {
+            "count": 17,
+            "answers": [
+                6,
+                11
+            ],
+            "avg_time": 0.9437253615435433
+        },
+        "lifestyle_health_checkups": {
+            "count": 24,
+            "answers": [
+                5,
+                5,
+                0,
+                12,
+                2
+            ],
+            "avg_time": 0.8913739124933878
+        },
+        "lifestyle_socioeconomic_status": {
+            "count": 69,
+            "answers": [
+                13,
+                56
+            ],
+            "avg_time": 0.9638252707495205
+        },
+        "lifestyle_air_pollution": {
+            "count": 72,
+            "answers": [
+                27,
+                45
+            ],
+            "avg_time": 0.9076072242524889
+        },
+        "lifestyle_unsafe_sex": {
+            "count": 82,
+            "answers": [
+                35,
+                47
+            ],
+            "avg_time": 0.9334831005189477
+        },
+        "lifestyle_loneliness": {
+            "count": 55,
+            "answers": [
+                34,
+                21
+            ],
+            "avg_time": 0.9269934870980002
+        },
+        "lifestyle_crime": {
+            "count": 66,
+            "answers": [
+                20,
+                46
+            ],
+            "avg_time": 0.9387724363442623
+        },
+        "lifestyle_natural_disasters": {
+            "count": 58,
+            "answers": [
+                11,
+                7,
+                15,
+                25
+            ],
+            "avg_time": 1.0078297195763428
+        },
+        "lifestyle_driving": {
+            "count": 62,
+            "answers": [
+                22,
+                40
+            ],
+            "avg_time": 0.9519540725215789
+        },
+        "lifestyle_dangerous_hobbies": {
+            "count": 43,
+            "answers": [
+                10,
+                33
+            ],
+            "avg_time": 1.0178274553875588
+        },
+        "lifestyle_housing": {
+            "count": 5,
+            "answers": [
+                2,
+                3
+            ],
+            "avg_time": 0.9026885032653809
+        },
+        "lifestyle_green_spaces": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        }
+    },
+    "family": {
+        "family_cancer": {
+            "count": 38,
+            "answers": [
+                2,
+                3,
+                9,
+                3,
+                4,
+                17
+            ],
+            "avg_time": 0.8984369039535522
+        },
+        "family_heart": {
+            "count": 21,
+            "answers": [
+                2,
+                9,
+                10
+            ],
+            "avg_time": 0.852562699999128
+        },
+        "family_stroke": {
+            "count": 20,
+            "answers": [
+                3,
+                4,
+                13
+            ],
+            "avg_time": 0.8529965996742248
+        },
+        "family_diabetes": {
+            "count": 13,
+            "answers": [
+                0,
+                3,
+                10
+            ],
+            "avg_time": 0.876550399340116
+        },
+        "family_hypertension": {
+            "count": 5,
+            "answers": [
+                3,
+                2
+            ],
+            "avg_time": 0.8116771697998046
+        },
+        "family_kidney": {
+            "count": 1,
+            "answers": [
+                1,
+                0
+            ],
+            "avg_time": 0.7171566486358643
+        },
+        "family_neurological": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_epilepsy": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_longevity": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_death_cause": {
+            "count": 0,
+            "answers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_mental_illness": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_bones": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_obesity": {
+            "count": 1,
+            "answers": [
+                1,
+                0
+            ],
+            "avg_time": 0.7223649024963379
+        },
+        "family_cholesterol": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_liver": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_autoimmune_disease": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_anemia": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_pregnancy": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_circulatory": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "family_respiratory": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        }
+    },
+    "health": {
+        "health_cancer": {
+            "count": 0,
+            "answers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_heart": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_stroke": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_diabetes": {
+            "count": 0,
+            "answers": [
+                0,
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_hypertension": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_weight": {
+            "count": 0,
+            "answers": [
+                0,
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_respiratory": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_kidney": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_anemia": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_neurological": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_mental_illness": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_liver": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_cholesterol": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_autoimmune_disease": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_infections": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_pregnancy": {
+            "count": 0,
+            "answers": [
+                0,
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_bones": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_circulatory": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_injury": {
+            "count": 0,
+            "answers": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        },
+        "health_digestive_condition": {
+            "count": 0,
+            "answers": [
+                0,
+                0
+            ],
+            "avg_time": 0.0
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "total_percentage": 0.19,
+    "youth": {
+        "from": 15,
+        "to": 34,
+        "percentage": 0.046
+    },
+    "adults": {
+        "from": 35,
+        "to": 54,
+        "percentage": 0.571
+    },
+    "seniors": {
+        "from": 55,
+        "to": 79,
+        "percentage": 0.383
+    }
+}

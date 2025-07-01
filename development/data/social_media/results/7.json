@@ -1,0 +1,74 @@
+[
+    {
+        "temperature": 0.3,
+        "top_p": 0.3,
+        "caption": "a photograph of two children playing in an indoor play tunnel",
+        "score": 0
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.6,
+        "caption": "a photograph of two children playing in a play tunnel",
+        "score": 0
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "caption": "a photograph of two children playing in an indoor play tunnel",
+        "score": 0
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.3,
+        "caption": "a photograph of two children playing in an indoor play tunnel",
+        "score": 0
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "caption": "a photograph of two children playing in a tunnel on the floor",
+        "score": 0
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "caption": "a photograph of two young children playing inside a colorful play tunnel",
+        "score": 0
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "caption": "a photograph of two children playing in an inflatable tunnel",
+        "score": 0
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.6,
+        "caption": "a photograph of a child laying in an open play tunnel",
+        "score": 1
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.9,
+        "caption": "a photograph of some children in the play tunnel and one with an empty toy",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.3,
+        "caption": "a photograph of a child in a play tunnel with his head inside",
+        "score": 1
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.6,
+        "caption": "a photograph of two kids playing in the play tunnel on the floor",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.9,
+        "caption": "a photograph of two boys under a fake bounce pit in their nursery",
+        "score": 0
+    }
+]

@@ -1,0 +1,73 @@
+{
+    "mortalidade": [
+        "mort_alcool",
+        "mort_cs",
+        "mort_diabetes",
+        "mort_pobreza",
+        "mort_prev",
+        "mort_suicidio",
+        "mort_tabaco",
+        "mort_tumores"
+    ],
+    "morbilidade": [
+        "diabetes",
+        "hipertensao",
+        "int_dm",
+        "peso_adultos",
+        "peso_criancas"
+    ],
+    "cuidados-saude": [
+        "ag_cs",
+        "ag_h",
+        "consult_mgf",
+        "enf_cs",
+        "med_cs",
+        "pop_s_medico",
+        "vacinacao"
+    ],
+    "estilos-vida": [
+        "alcool",
+        "drogas",
+        "pop_activ_fisica",
+        "tabaco"
+    ],
+    "educacao": [
+        "abandono_esc",
+        "analf",
+        "esc_obrig",
+        "pop_ens_sup"
+    ],
+    "economico-social": [
+        "abs_eleicoes",
+        "desemp_j",
+        "desemp_ld",
+        "id_idosos",
+        "idosos_sos",
+        "i_env",
+        "nem_nem",
+        "rendimento",
+        "rsi"
+    ],
+    "ambiente-fisico": [
+        "a_evu",
+        "agua_seg",
+        "ag_verde",
+        "mp_tparticular",
+        "mp_tpublico",
+        "p_ruido"
+    ],
+    "ambiente-construido": [
+        "aloj_aquec",
+        "aloj_humid",
+        "aloj_sobre",
+        "aloj_wc",
+        "cap_creche",
+        "cap_idosos",
+        "edif_rodas"
+    ],
+    "seguranca": [
+        "acidentes_vitimas",
+        "crimes_criancas",
+        "violencia_domestica"
+    ]
+}

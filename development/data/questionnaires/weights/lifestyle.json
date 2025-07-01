@@ -1,0 +1,22 @@
+{
+    "lifestyle_job_hazards": [3, 3, 2, 3, 4, 4, 5, 3, 0],
+    "lifestyle_smoking": [4, 6, 8, 10, 0],
+    "lifestyle_diet": [0, 2, 4],
+    "lifestyle_exercise": [4, 3, 1, 0],
+    "lifestyle_alcohol": [6, 4, 2, 1, 0],
+    "lifestyle_drugs": [10, 0],
+    "lifestyle_sleep": [5, 3, 0, 1],
+    "lifestyle_stress": [3, 0],
+    "lifestyle_healthcare_access": [0, 3],
+    "lifestyle_health_checkups": [0, 2, 4, 2, 3],
+    "lifestyle_socioeconomic_status": [4, 0],
+    "lifestyle_air_pollution": [0, 3],
+    "lifestyle_unsafe_sex": [4, 0],
+    "lifestyle_loneliness": [3, 0],
+    "lifestyle_crime": [3, 0],
+    "lifestyle_natural_disasters": [2, 2, 2, 0],
+    "lifestyle_driving": [4, 0],
+    "lifestyle_dangerous_hobbies": [3, 0],
+    "lifestyle_housing": [4, 0],
+    "lifestyle_green_spaces": [0, 2]
+}

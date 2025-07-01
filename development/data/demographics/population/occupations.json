@@ -1,0 +1,109 @@
+{
+    "population": 4426461,
+    "armed forces occupations": {
+        "population": 22768,
+        "steps": {
+            "Military general": 2942,
+            "Combat engineer": 4904,
+            "Army medic": 7846,
+            "Military police officer": 3923,
+            "Special forces operative": 7846,
+            "Radar operator": 3923,
+            "Naval officer": 3432,
+            "Air force pilot": 3432
+        }
+    },
+    "managers": {
+        "population": 268144,
+        "steps": {
+            "Chief executive officer": 2942,
+            "Finance manager": 3432,
+            "Sales manager": 3432,
+            "Human resources manager": 3432,
+            "Restaurant manager": 3923,
+            "Construction manager": 3923
+        }
+    },
+    "professionals": {
+        "population": 806691,
+        "steps": {
+            "Medical doctor": 7846,
+            "Civil engineer": 5884,
+            "Lawyer": 3923,
+            "Software developer": 3923,
+            "Nurse": 7846,
+            "Teacher": 5884
+        }
+    },
+    "technicians and associate professionals": {
+        "population": 469787,
+        "steps": {
+            "Medical laboratory technician": 5394,
+            "Computer network technician": 3923,
+            "Broadcasting technician": 4413,
+            "Engineering technician": 5394,
+            "Pharmacy technician": 4413,
+            "Social work associate professional": 4904
+        }
+    },
+    "clerical support workers": {
+        "population": 425704,
+        "steps": {
+            "General office clerk": 3923,
+            "Receptionist": 3923,
+            "Accounting clerk": 3923,
+            "Data entry clerk": 3923,
+            "Mail carrier": 3923,
+            "Secretary (general)": 3923,
+            "Office worker": 3923,
+            "Call center associate": 3432
+        }
+    },
+    "service and sales workers": {
+        "population": 815650,
+        "steps": {
+            "Retail salesperson": 7355,
+            "Waiter": 11278,
+            "Hairdresser": 4413,
+            "Security guard": 4904,
+            "Travel attendant": 4413,
+            "Hotel front desk clerk": 4413,
+            "Retail worker": 7355
+        }
+    },
+    "skilled agricultural, forestry and fishery workers": {
+        "population": 97453,
+        "steps": {
+            "Crop farm worker": 6375,
+            "Livestock worker": 6375,
+            "Farmer": 6865,
+            "Forestry worker": 6375,
+            "Fishery worker": 6375,
+            "Beekeeper": 5884,
+            "Agricultural technician": 5884
+        }
+    },
+    "craft and related trades workers": {
+        "population": 604029,
+        "steps": {
+            "Electrician": 5394,
+            "Plumber": 5394,
+            "Welder": 5394,
+            "Carpenter": 5394,
+            "Tailor": 4413,
+            "Motor vehicle mechanic": 5394,
+            "Tradesperson": 5884
+        }
+    },
+    "plant and machine operators, and assemblers": {
+        "population": 232985,
+        "steps": {
+            "Industrial machinery operator": 4413,
+            "Forklift driver": 4413,
+            "Textile machine operator": 3923,
+            "Assembler (electronics)": 3923,
+            "Crane operator": 4904,
+            "Packaging machine operator": 3923
+        }
+    }
+}

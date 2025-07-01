@@ -1,0 +1,82 @@
+{
+    "health_cancer": {
+        "question": "Have you ever been diagnosed with cancer?",
+        "options": ["Lung", "Breast", "Prostate", "Colon", "Other", "No"]
+    },
+    "health_heart": {
+        "question": "Have you been diagnosed with heart disease (e.g., heart attack, coronary artery disease)?",
+        "options": ["Yes", "No"]
+    },
+    "health_stroke": {
+        "question": "Have you ever had a stroke or mini-stroke (TIA)?",
+        "options": ["Yes", "No"]
+    },
+    "health_diabetes": {
+        "question": "Have you been diagnosed with diabetes?",
+        "options": ["Yes, Type 1", "Yes, Type 2", "No"]
+    },
+    "health_hypertension": {
+        "question": "Have you been diagnosed with high blood pressure (hypertension)?",
+        "options": ["Yes", "No"]
+    },
+    "health_weight": {
+        "question": "How would you describe your current weight status?",
+        "options": ["Underweight", "Healthy weight", "Overweight"]
+    },
+    "health_respiratory": {
+        "question": "Do you have or have you ever had any respiratory conditions (e.g., asthma, COPD)?",
+        "options": ["Yes", "No"]
+    },
+    "health_kidney": {
+        "question": "Have you ever been diagnosed with kidney disease or kidney failure?",
+        "options": ["Yes", "No"]
+    },
+    "health_anemia": {
+        "question": "Have you been diagnosed with anemia or a blood disorder?",
+        "options": ["Yes", "No"]
+    },
+    "health_neurological": {
+        "question": "Have you been diagnosed with a neurological disorder (e.g., Parkinson's, multiple sclerosis)?",
+        "options": ["Yes", "No"]
+    },
+    "health_mental_illness": {
+        "question": "Have you ever been diagnosed with a mental health condition (e.g., depression, anxiety, bipolar disorder)?",
+        "options": ["Yes", "No"]
+    },
+    "health_liver": {
+        "question": "Have you ever been diagnosed with liver disease (e.g., hepatitis, cirrhosis)?",
+        "options": ["Yes", "No"]
+    },
+    "health_cholesterol": {
+        "question": "Have you been diagnosed with high cholesterol?",
+        "options": ["Yes", "No"]
+    },
+    "health_autoimmune_disease": {
+        "question": "Have you ever been diagnosed with an autoimmune disorder (e.g., lupus, multiple sclerosis)?",
+        "options": ["Yes", "No"]
+    },
+    "health_infections": {
+        "question": "Do you have a history of recurrent infections requiring medical treatment?",
+        "options": ["Yes", "No"]
+    },
+    "health_pregnancy": {
+        "question": "Are you currently pregnant, or have you been pregnant within the last 12 months?",
+        "options": ["Yes, I am currently pregnant", "Yes, I was pregnant within the last 12 months but am no longer pregnant", "No"]
+    },
+    "health_bones": {
+        "question": "Have you been diagnosed with osteoporosis, arthritis or chronic joint pain?",
+        "options": ["Yes", "No"]
+    },
+    "health_circulatory": {
+        "question": "Do you have circulation problems (e.g., peripheral artery disease, varicose veins)?",
+        "options": ["Yes", "No"]
+    },
+    "health_injury": {
+        "question": "Have you ever experienced a serious injury?",
+        "options": ["Brain", "Spinal", "Severe burn", "Internal organs", "Complicated fractures", "Other", "No"]
+    },
+    "health_digestive_condition": {
+        "question": "Do you have any digestive conditions (e.g., GERD, ulcers, Crohn's disease, IBS)?",
+        "options": ["Yes", "No"]
+    }
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "temperature": 0.3,
+        "top_p": 0.3,
+        "caption": "a photograph of a woman in black jacket and goggles on skis",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.6,
+        "caption": "a photograph of a woman in black jacket and goggles on skis",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "caption": "a photograph of a woman in black skis standing on the snow",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.3,
+        "caption": "a photograph of a woman in black jacket and goggles on skis",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "caption": "a photograph of a woman with skis and poles in the snow",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "caption": "a photograph of two people wearing skis in the snow",
+        "score": 0
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "caption": "a photograph of a woman wearing skis on a snowy slope",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.6,
+        "caption": "a photograph of a woman is posing for a picture while skiing",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.9,
+        "caption": "a photograph of a woman standing in the snow, with her ski poles up",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.3,
+        "caption": "a photograph of a woman wearing skis and sunglasses posing for the camera",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.6,
+        "caption": "a photograph of a woman posing on skis in the snow",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.9,
+        "caption": "a photograph of an adult female skier taking a picture at the top of ski hill",
+        "score": 2
+    }
+]

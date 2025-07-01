@@ -1,0 +1,71 @@
+municipality,urban green space,safe water,distance to green spaces,population using cars or motorcycles daily,population using public transport daily,harmful noise levels
+Alfândega da Fé,moderate,low,moderate,high,very low,very low
+Amares,very low,low,low,very high,moderate,very low
+Braga,low,very high,very low,high,moderate,low
+Bragança,high,moderate,low,very high,very low,
+Gondomar,very low,very high,very low,high,high,low
+Maia,moderate,very high,very low,very high,moderate,high
+Matosinhos,low,very high,very low,high,high,
+Monção,very low,very low,moderate,very high,low,
+Paredes,,,,,,
+Penafiel,very low,very high,moderate,high,high,moderate
+Porto,moderate,high,very low,moderate,high,
+Póvoa de Lanhoso,very low,high,low,very high,moderate,
+Santo Tirso,low,very high,low,very high,moderate,very low
+Valença,,,,,,
+Valongo,very low,very high,very low,high,high,moderate
+Viana do Castelo,moderate,high,low,very high,low,very low
+Vila Nova de Famalicão,low,very high,very low,very high,low,moderate
+Vila Pouca de Aguiar,,,,,,
+Vila Real,very low,very high,low,very high,low,low
+Alenquer,,,,low,very low,
+Coimbra,moderate,very high,low,very high,moderate,high
+Figueira da Foz,moderate,very high,low,very high,low,very low
+Guarda,high,low,low,very high,very low,high
+Lourinhã,low,high,very low,very high,moderate,very low
+Lousã,very low,low,very low,very high,low,very high
+Miranda do Corvo,very low,very high,low,very high,moderate,very low
+Pombal,low,very high,moderate,very high,low,low
+Soure,low,moderate,moderate,very high,moderate,
+Tábua,very low,very high,moderate,very high,low,
+Torres Vedras,low,high,low,high,moderate,low
+Alcochete,,,,,,
+Almada,moderate,very high,very low,moderate,very high,low
+Amadora,high,high,very low,moderate,very high,high
+Barreiro,high,very high,very low,moderate,very high,
+Lisboa,high,high,very low,moderate,very high,very high
+Loures,moderate,very high,very low,moderate,very high,high
+Montijo,low,moderate,very low,high,high,moderate
+Odivelas,very low,very high,very low,moderate,very high,moderate
+Oeiras,moderate,high,very low,high,high,high
+Palmela,moderate,high,very low,high,high,low
+Seixal,low,very high,very low,moderate,very high,moderate
+Sesimbra,very low,very high,low,high,high,
+Setúbal,low,very high,very low,moderate,high,low
+Vila Franca de Xira,low,very high,very low,moderate,very high,high
+Almodôvar,very high,moderate,moderate,moderate,low,very low
+Alvito,high,moderate,low,moderate,low,
+Avis,low,moderate,low,high,low,very low
+Azambuja,very low,very high,low,moderate,high,high
+Barrancos,very low,very low,very low,moderate,low,
+Beja,low,high,low,high,low,moderate
+Chamusca,high,moderate,moderate,high,moderate,very low
+Cuba,moderate,moderate,very low,high,low,
+Golegã,moderate,moderate,low,high,low,low
+Grândola,very low,moderate,moderate,high,low,low
+Odemira,very low,low,very high,high,low,
+Serpa,very low,moderate,high,moderate,low,low
+Viana do Alentejo,high,moderate,very low,high,low,moderate
+Vidigueira,very low,moderate,moderate,high,low,very low
+Castro Marim,moderate,moderate,moderate,very high,low,
+Lagoa,very low,high,low,very high,low,
+Loulé,low,very high,low,high,very low,
+Monchique,low,high,low,high,low,
+Portimão,low,very high,very low,high,very low,
+Tavira,low,very high,low,high,low,
+Calheta (Açores),,,,very low,very low,
+Lagoa (Açores),very low,very high,very low,very high,low,
+Ponta Delgada (Açores),moderate,very high,low,very high,low,
+Ribeira Grande (Açores),very low,high,very low,high,low,
+São Roque do Pico (Açores),,high,,very high,very low,
+Porto Santo (Madeira),,high,,very high,very low,

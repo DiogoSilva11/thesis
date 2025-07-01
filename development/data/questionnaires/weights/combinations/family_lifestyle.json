@@ -1,0 +1,142 @@
+[
+    {
+        "combination": {
+            "family_cancer": [0],
+            "lifestyle_smoking": [1, 2, 3]
+        },
+        "weight": 5
+    },
+    {
+        "combination": {
+            "family_cancer": [3],
+            "lifestyle_diet": [2]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "family_heart": [0, 1],
+            "lifestyle_smoking": [1, 2, 3]
+        },
+        "weight": 6
+    },
+    {
+        "combination": {
+            "family_stroke": [0, 1],
+            "lifestyle_diet": [2]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "family_diabetes": [0, 1],
+            "lifestyle_diet": [2]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "family_hypertension": [0],
+            "lifestyle_stress": [0]
+        },
+        "weight": 3
+    },
+    {
+        "combination": {
+            "family_kidney": [0],
+            "lifestyle_drugs": [0]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "family_neurological": [0],
+            "lifestyle_sleep": [0]
+        },
+        "weight": 3
+    },
+    {
+        "combination": {
+            "family_epilepsy": [0],
+            "lifestyle_stress": [0]
+        },
+        "weight": 3
+    },
+    {
+        "combination": {
+            "family_death_cause": [0],
+            "lifestyle_smoking": [1, 2, 3]
+        },
+        "weight": 6
+    },
+    {
+        "combination": {
+            "family_death_cause": [2],
+            "lifestyle_diet": [2]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "family_mental_illness": [0],
+            "lifestyle_loneliness": [0]
+        },
+        "weight": 3
+    },
+    {
+        "combination": {
+            "family_bones": [0],
+            "lifestyle_exercise": [0]
+        },
+        "weight": 3
+    },
+    {
+        "combination": {
+            "family_obesity": [0],
+            "lifestyle_exercise": [0]
+        },
+        "weight": 3
+    },
+    {
+        "combination": {
+            "family_cholesterol": [0],
+            "lifestyle_diet": [2]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "family_liver": [0],
+            "lifestyle_alcohol": [0, 1]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "family_autoimmune_disease": [0],
+            "lifestyle_stress": [0]
+        },
+        "weight": 3
+    },
+    {
+        "combination": {
+            "family_anemia": [0],
+            "lifestyle_diet": [2]
+        },
+        "weight": 3
+    },
+    {
+        "combination": {
+            "family_circulatory": [0],
+            "lifestyle_smoking": [1, 2, 3]
+        },
+        "weight": 4
+    },
+    {
+        "combination": {
+            "family_respiratory": [0],
+            "lifestyle_air_pollution": [0]
+        },
+        "weight": 3
+    }
+]

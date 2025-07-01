@@ -1,0 +1,22 @@
+{
+    "family_cancer": [4, 3, 3, 3, 2, 0],
+    "family_heart": [6, 4, 0],
+    "family_stroke": [5, 3, 0],
+    "family_diabetes": [4, 5, 0],
+    "family_hypertension": [3, 0],
+    "family_kidney": [4, 0],
+    "family_neurological": [4, 0],
+    "family_epilepsy": [3, 0],
+    "family_longevity": [0, 4],
+    "family_death_cause": [6, 4, 5, 1, 2, 0],
+    "family_mental_illness": [2, 0],
+    "family_bones": [2, 0],
+    "family_obesity": [4, 0],
+    "family_cholesterol": [3, 0],
+    "family_liver": [4, 0],
+    "family_autoimmune_disease": [3, 0],
+    "family_anemia": [1, 0],
+    "family_pregnancy": [2, 0],
+    "family_circulatory": [3, 0],
+    "family_respiratory": [3, 0]
+}

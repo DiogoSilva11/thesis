@@ -1,0 +1,74 @@
+[
+    {
+        "temperature": 0.3,
+        "top_p": 0.3,
+        "caption": "a photograph of two women sitting at a table with food and drinks",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.6,
+        "caption": "a photograph of two women sitting at a table with food",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "caption": "a photograph of two women sitting at a table with food in front of them",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.3,
+        "caption": "a photograph of two women sitting at a table with a bowl of soup",
+        "score": 0
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "caption": "a photograph of two women sitting at a table in front of a window",
+        "score": 1
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "caption": "a photograph of two women sitting at a table together, looking out the window",
+        "score": 1
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "caption": "a photograph of two women sitting at a table with a view",
+        "score": 1
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.6,
+        "caption": "a photograph of two women sit at a table with food",
+        "score": 1
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.9,
+        "caption": "a photograph of two woman sitting at a table eating with the view out the window",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.3,
+        "caption": "a photograph of two women are sitting at a table in a restaurant",
+        "score": 1
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.6,
+        "caption": "a photograph of a woman and child sitting in a booth next to windows with a city view",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.9,
+        "caption": "a photograph of two beautiful lady hug while having hot tea at the table in a restaurant",
+        "score": 0
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "temperature": 0.3,
+        "top_p": 0.3,
+        "caption": "a photograph of two women doing yoga in a gym",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.6,
+        "caption": "a photograph of two women doing yoga in a gym",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "caption": "a photograph of two women doing yoga in a gym",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.3,
+        "caption": "a photograph of two women doing yoga in a gym",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "caption": "a photograph of two women doing yoga exercises in a room",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "caption": "a photograph of two women are doing yoga on their mats",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "caption": "a photograph of two women doing yoga poses in a gym",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.6,
+        "caption": "a photograph of two women are performing a yoga pose in a gym",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.9,
+        "caption": "a photograph of two woman doing yoga on the floor in front of a door",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.3,
+        "caption": "a photograph of two women doing yoga in front of a mirror",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.6,
+        "caption": "a photograph of two girls doing yoga in front of the office",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.9,
+        "caption": "a photograph of two young woman practicing the splits, including both in shorts and top",
+        "score": 0
+    }
+]

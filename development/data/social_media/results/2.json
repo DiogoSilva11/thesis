@@ -1,0 +1,74 @@
+[
+    {
+        "temperature": 0.3,
+        "top_p": 0.3,
+        "caption": "a photograph of a man and woman standing on a dock next to the ocean",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.6,
+        "caption": "a photograph of two people standing on a dock near the ocean",
+        "score": 1
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "caption": "a photograph of a man and woman standing on a dock by the ocean",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.3,
+        "caption": "a photograph of a man and woman standing on a dock near the ocean",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "caption": "a photograph of a man and woman standing on a dock near the ocean",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "caption": "a photograph of two people standing on a dock by the ocean",
+        "score": 1
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "caption": "a photograph of a man and woman standing on a pier next to the ocean",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.6,
+        "caption": "a photograph of two people posing for a picture on the deck",
+        "score": 1
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.9,
+        "caption": "a photograph of two people standing on a porch at the beach",
+        "score": 1
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.3,
+        "caption": "a photograph of a man and woman standing on a dock in front of the ocean",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.6,
+        "caption": "a photograph of two people in bright outfits stand on a wooden dock overlooking a large open air restaurant with blue skies",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.9,
+        "caption": "a photograph of two people in hats stand in front of large body and clear ocean near covered dock",
+        "score": 1
+    }
+]

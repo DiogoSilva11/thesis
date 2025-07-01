@@ -1,0 +1,82 @@
+{
+    "family_cancer": {
+        "question": "Has any biological family member been diagnosed with cancer?",
+        "options": ["Lung", "Breast", "Prostate", "Colon", "Other", "No"]
+    },
+    "family_heart": {
+        "question": "Has any biological family member been diagnosed with heart disease (e.g., heart attack, coronary artery disease)?",
+        "options": ["Yes, before age 50", "Yes, after age 50","No"]
+    },
+    "family_stroke": {
+        "question": "Has any biological family member had a stroke?",
+        "options": ["Yes, before age 50", "Yes, after age 50", "No"]
+    },
+    "family_diabetes": {
+        "question": "Has any biological family member been diagnosed with diabetes?",
+        "options": ["Yes, type 1", "Yes, type 2", "No"]
+    },
+    "family_hypertension": {
+        "question": "Has any biological family member been diagnosed with high blood pressure (hypertension)?",
+        "options": ["Yes", "No"]
+    },
+    "family_kidney": {
+        "question": "Has any biological family member been diagnosed with kidney disease?",
+        "options": ["Yes", "No"]
+    },
+    "family_neurological": {
+        "question": "Has any biological family member been diagnosed with a neurological condition (e.g., Alzheimer's, Parkinson's)?",
+        "options": ["Yes", "No"]
+    },
+    "family_epilepsy": {
+        "question": "Has anyone in your family been diagnosed with epilepsy or seizure disorders?",
+        "options": ["Yes", "No"]
+    },
+    "family_longevity": {
+        "question": "Have most of your biological family members lived beyond the age of 75?",
+        "options": ["Yes", "No"]
+    },
+    "family_death_cause": {
+        "question": "If a biological parent has passed away, what was the cause?",
+        "options": ["Heart disease", "Cancer", "Stroke", "Accident", "Other", "Not applicable"]
+    },
+    "family_mental_illness": {
+        "question": "Has any biological family member been diagnosed with a mental health condition (e.g., depression, bipolar disorder, schizophrenia)?",
+        "options": ["Yes", "No"]
+    },
+    "family_bones": {
+        "question": "Has anyone in your family been diagnosed with osteoporosis, arthritis or chronic joint pain?",
+        "options": ["Yes", "No"]
+    },
+    "family_obesity": {
+        "question": "Has any biological family member struggled with obesity? ",
+        "options": ["Yes", "No"]
+    },
+    "family_cholesterol": {
+        "question": "Has any biological family member been diagnosed with high cholesterol?",
+        "options": ["Yes", "No"]
+    },
+    "family_liver": {
+        "question": "Has any biological family member been diagnosed with liver disease (e.g., hepatitis, cirrhosis)?",
+        "options": ["Yes", "No"]
+    },
+    "family_autoimmune_disease": {
+        "question": "Has any biological family member been diagnosed with an autoimmune disorder (e.g., lupus, multiple sclerosis)?",
+        "options": ["Yes", "No"]
+    },
+    "family_anemia": {
+        "question": "Has any biological family member been diagnosed with anemia?",
+        "options": ["Yes", "No"]
+    },
+    "family_pregnancy": {
+        "question": "Has anyone in your family experienced complications during pregnancy (e.g., preeclampsia, gestational diabetes)?",
+        "options": ["Yes", "No"]
+    },
+    "family_circulatory": {
+        "question": "Has any biological family member been diagnosed with circulation problems (e.g., peripheral artery disease, varicose veins)?",
+        "options": ["Yes", "No"]
+    },
+    "family_respiratory": {
+        "question": "Has any biological family member been diagnosed with a respiratory condition?",
+        "options": ["Yes", "No"]
+    }
+}

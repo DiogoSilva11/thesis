@@ -1,0 +1,74 @@
+[
+    {
+        "temperature": 0.3,
+        "top_p": 0.3,
+        "caption": "a photograph of a man in glasses sitting inside of an airplane",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.6,
+        "caption": "a photograph of a man sitting in the cockpit of a plane",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "caption": "a photograph of a man sitting in the cockpit of an airplane",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.3,
+        "caption": "a photograph of a man in glasses sitting inside of an airplane",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "caption": "a photograph of a man in glasses sitting inside of an airplane",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "caption": "a photograph of a man is sitting in the cockpit of an airplane",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "caption": "a photograph of a man sitting in the cockpit of a plane",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.6,
+        "caption": "a photograph of a man is smiling while flying in an airplane",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.9,
+        "caption": "a photograph of a man sitting in a helicopter with another man inside",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.3,
+        "caption": "a photograph of the pilot smiles while flying in an airplane",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.6,
+        "caption": "a photograph of an aircraft with the pilot inside smiling and looking into camera",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.9,
+        "caption": "a photograph of man smiles as he sits in a glider that has views of mountains behind him",
+        "score": 0
+    }
+]

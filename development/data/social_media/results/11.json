@@ -1,0 +1,74 @@
+[
+    {
+        "temperature": 0.3,
+        "top_p": 0.3,
+        "caption": "a photograph of a pizza in a box with pepperoni on it",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.6,
+        "caption": "a photograph of a pizza in a box with pepperoni on it",
+        "score": 2
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "caption": "a photograph of a pizza in a box with pepperoni on it",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.3,
+        "caption": "a photograph of a pizza in a box with pepperoni on it",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "caption": "a photograph of a pizza in a box on the table",
+        "score": 1
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "caption": "a photograph of a pizza in an open box next to a salad",
+        "score": 0
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "caption": "a photograph of a pizza in a box with pepperoni on it",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.6,
+        "caption": "a photograph of a pizza with pepperoni on top of it in a box",
+        "score": 2
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.9,
+        "caption": "a photograph of two pizza boxes in the shape of pizzas",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.3,
+        "caption": "a photograph of a pizza in a box with pepperoni on it",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.6,
+        "caption": "a photograph of pepperoni and pizza in an open red box",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.9,
+        "caption": "a photograph of two pizzas on orange box sit on counter top",
+        "score": 0
+    }
+]

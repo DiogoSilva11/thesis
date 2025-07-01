@@ -1,0 +1,22 @@
+{
+    "health_cancer": [8, 6, 6, 6, 4, 0],
+    "health_heart": [10, 0],
+    "health_stroke": [9, 0],
+    "health_diabetes": [8, 9, 0],
+    "health_hypertension": [5, 0],
+    "health_weight": [6, 0, 4],
+    "health_respiratory": [5, 0],
+    "health_kidney": [7, 0],
+    "health_anemia": [2, 0],
+    "health_neurological": [6, 0],
+    "health_mental_illness": [3, 0],
+    "health_liver": [7, 0],
+    "health_cholesterol": [4, 0],
+    "health_autoimmune_disease": [5, 0],
+    "health_infections": [4, 0],
+    "health_pregnancy": [1, 1, 0],
+    "health_bones": [3, 0],
+    "health_circulatory": [5, 0],
+    "health_injury": [7, 7, 6, 7, 6, 4, 0],
+    "health_digestive_condition": [3, 0]
+}

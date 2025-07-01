@@ -1,0 +1,74 @@
+[
+    {
+        "temperature": 0.3,
+        "top_p": 0.3,
+        "caption": "a photograph of a woman holding a tennis racquet on top of a blue court",
+        "score": 0
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.6,
+        "caption": "a photograph of a woman holding a tennis racquet on top of a blue court",
+        "score": 0
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "caption": "a photograph of a woman in white shirt and pink shorts playing tennis",
+        "score": 0
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.3,
+        "caption": "a photograph of a woman holding a tennis racquet on top of a blue court",
+        "score": 0
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "caption": "a photograph of a woman is playing tennis on the court",
+        "score": 0
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "caption": "a photograph of a man standing on top of a tennis court holding a racquet",
+        "score": 1
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "caption": "a photograph of a woman in white shirt and pink shorts playing tennis",
+        "score": 0
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.6,
+        "caption": "a photograph of a tennis player holding a racket in her hand",
+        "score": 0
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.9,
+        "caption": "a photograph of a woman standing on top of a tennis court holding a racquet",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.3,
+        "caption": "a photograph of a tennis player in action on the court",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.6,
+        "caption": "a photograph of a tennis player preparing to serve the ball during a match",
+        "score": 2
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.9,
+        "caption": "a photograph of the woman swings tennis raquet with both hands to the ball",
+        "score": 0
+    }
+]

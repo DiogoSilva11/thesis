@@ -1,0 +1,428 @@
+{
+    "personal": {
+        "personal_age": {
+            "count": 85,
+            "answers": [
+                2,
+                12,
+                46,
+                25
+            ]
+        },
+        "personal_gender": {
+            "count": 85,
+            "answers": [
+                40,
+                45,
+                0
+            ]
+        },
+        "personal_marital": {
+            "count": 85,
+            "answers": [
+                17,
+                68,
+                0,
+                0,
+                0
+            ]
+        },
+        "personal_location": {
+            "count": 85,
+            "answers": [
+                0,
+                0,
+                3,
+                0,
+                3,
+                0,
+                3,
+                1,
+                3,
+                1,
+                8,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                4,
+                0,
+                1,
+                1,
+                1,
+                0,
+                2,
+                1,
+                0,
+                3,
+                0,
+                0,
+                4,
+                0,
+                12,
+                8,
+                1,
+                1,
+                4,
+                0,
+                6,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                2,
+                0,
+                3,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+            ]
+        },
+        "personal_occupation": {
+            "count": 85,
+            "answers": [
+                1,
+                18,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                2,
+                2,
+                1,
+                0,
+                0,
+                0,
+                3,
+                4,
+                3,
+                2,
+                1,
+                2,
+                0,
+                2,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                0,
+                3,
+                0,
+                2,
+                1,
+                1,
+                1,
+                4,
+                2,
+                3,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                1,
+                3,
+                2,
+                2,
+                2,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                1,
+                2,
+                0
+            ]
+        }
+    },
+    "lifestyle": {
+        "lifestyle_job_hazards": {
+            "count": 85,
+            "answers": [
+                5,
+                2,
+                3,
+                2,
+                0,
+                8,
+                0,
+                5,
+                60
+            ]
+        },
+        "lifestyle_smoking": {
+            "count": 85,
+            "answers": [
+                0,
+                0,
+                0,
+                0,
+                85
+            ]
+        },
+        "lifestyle_diet": {
+            "count": 85,
+            "answers": [
+                12,
+                42,
+                31
+            ]
+        },
+        "lifestyle_exercise": {
+            "count": 85,
+            "answers": [
+                20,
+                17,
+                31,
+                17
+            ]
+        },
+        "lifestyle_alcohol": {
+            "count": 85,
+            "answers": [
+                7,
+                19,
+                26,
+                16,
+                17
+            ]
+        },
+        "lifestyle_drugs": {
+            "count": 85,
+            "answers": [
+                5,
+                80
+            ]
+        },
+        "lifestyle_sleep": {
+            "count": 85,
+            "answers": [
+                3,
+                12,
+                57,
+                13
+            ]
+        },
+        "lifestyle_stress": {
+            "count": 85,
+            "answers": [
+                36,
+                49
+            ]
+        },
+        "lifestyle_healthcare_access": {
+            "count": 85,
+            "answers": [
+                8,
+                77
+            ]
+        },
+        "lifestyle_health_checkups": {
+            "count": 85,
+            "answers": [
+                9,
+                21,
+                2,
+                49,
+                4
+            ]
+        }
+    },
+    "family": {
+        "family_cancer": {
+            "count": 85,
+            "answers": [
+                6,
+                9,
+                15,
+                6,
+                7,
+                42
+            ]
+        },
+        "family_heart": {
+            "count": 85,
+            "answers": [
+                9,
+                24,
+                52
+            ]
+        },
+        "family_stroke": {
+            "count": 85,
+            "answers": [
+                11,
+                21,
+                53
+            ]
+        },
+        "family_diabetes": {
+            "count": 85,
+            "answers": [
+                4,
+                38,
+                43
+            ]
+        },
+        "family_hypertension": {
+            "count": 85,
+            "answers": [
+                37,
+                48
+            ]
+        },
+        "family_kidney": {
+            "count": 85,
+            "answers": [
+                19,
+                66
+            ]
+        },
+        "family_neurological": {
+            "count": 85,
+            "answers": [
+                12,
+                73
+            ]
+        },
+        "family_epilepsy": {
+            "count": 85,
+            "answers": [
+                62,
+                23
+            ]
+        },
+        "family_longevity": {
+            "count": 85,
+            "answers": [
+                32,
+                53
+            ]
+        },
+        "family_death_cause": {
+            "count": 85,
+            "answers": [
+                34,
+                17,
+                14,
+                7,
+                8,
+                5
+            ]
+        }
+    },
+    "health": {
+        "health_cancer": {
+            "count": 85,
+            "answers": [
+                1,
+                5,
+                1,
+                0,
+                3,
+                75
+            ]
+        },
+        "health_heart": {
+            "count": 85,
+            "answers": [
+                11,
+                74
+            ]
+        },
+        "health_stroke": {
+            "count": 85,
+            "answers": [
+                3,
+                82
+            ]
+        },
+        "health_diabetes": {
+            "count": 85,
+            "answers": [
+                3,
+                33,
+                49
+            ]
+        },
+        "health_hypertension": {
+            "count": 85,
+            "answers": [
+                36,
+                49
+            ]
+        },
+        "health_weight": {
+            "count": 85,
+            "answers": [
+                1,
+                4,
+                80
+            ]
+        },
+        "health_respiratory": {
+            "count": 85,
+            "answers": [
+                50,
+                35
+            ]
+        },
+        "health_kidney": {
+            "count": 85,
+            "answers": [
+                5,
+                80
+            ]
+        },
+        "health_anemia": {
+            "count": 85,
+            "answers": [
+                31,
+                54
+            ]
+        },
+        "health_neurological": {
+            "count": 85,
+            "answers": [
+                2,
+                83
+            ]
+        }
+    }
+}

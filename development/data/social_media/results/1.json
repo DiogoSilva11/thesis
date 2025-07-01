@@ -1,0 +1,74 @@
+[
+    {
+        "temperature": 0.3,
+        "top_p": 0.3,
+        "caption": "a photograph of a man sitting on a chair in a gym",
+        "score": 1
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.6,
+        "caption": "a photograph of a man sitting on top of a chair in a gym",
+        "score": 1
+    },
+    {
+        "temperature": 0.3,
+        "top_p": 0.9,
+        "caption": "a photograph of a man sitting on a gym ball drinking from a cup",
+        "score": 2
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.3,
+        "caption": "a photograph of a man sitting on a chair in a gym",
+        "score": 1
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.6,
+        "caption": "a photograph of a man sitting on top of a chair in a gym",
+        "score": 1
+    },
+    {
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "caption": "a photograph of a man sitting in a gym with a ball on his feet",
+        "score": 0
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.3,
+        "caption": "a photograph of a man sitting on a gym ball drinking from a cup",
+        "score": 0
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.6,
+        "caption": "a photograph of a man sitting on a gym chair with a phone",
+        "score": 0
+    },
+    {
+        "temperature": 1.0,
+        "top_p": 0.9,
+        "caption": "a photograph of the man is drinking in the gym chair",
+        "score": 1
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.3,
+        "caption": "a photograph of a man sitting on top of a black suitcase",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.6,
+        "caption": "a photograph of a man is sitting on a blue couch drinking",
+        "score": 0
+    },
+    {
+        "temperature": 1.5,
+        "top_p": 0.9,
+        "caption": "a photograph of the man with black sports shorts sits holding a phone and posing next to exercise equipment in an open gym space surrounded by floor tiles,",
+        "score": 0
+    }
+]
